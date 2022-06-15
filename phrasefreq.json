@@ -1,0 +1,4586 @@
+[
+    {
+        "phrase": "in storage size and consequent reduction in image quality as well) are",
+        "value": 1
+    },
+    {
+        "phrase": "CA   BIT12",
+        "value": 1
+    },
+    {
+        "phrase": "CAF   FIVE",
+        "value": 1
+    },
+    {
+        "phrase": "- (------------- + VDG + VG)",
+        "value": 1
+    },
+    {
+        "phrase": "ENABLE REDESIGNATION LOGIC",
+        "value": 1
+    },
+    {
+        "phrase": "+PITCH",
+        "value": 1
+    },
+    {
+        "phrase": "CA   FIXLOC",
+        "value": 2
+    },
+    {
+        "phrase": "RANGEDSP = ABVAL(LAND - R)",
+        "value": 1
+    },
+    {
+        "phrase": "V/SC   VXSC",
+        "value": 1
+    },
+    {
+        "phrase": "TC   TDISPSET",
+        "value": 2
+    },
+    {
+        "phrase": "TERMINATE",
+        "value": 1
+    },
+    {
+        "phrase": "YIELDS ABVAL OF CRITERION ON DX IN MPAC",
+        "value": 1
+    },
+    {
+        "phrase": "YIELDS -DX IN MPAC",
+        "value": 1
+    },
+    {
+        "phrase": "CS   TARGTDEX",
+        "value": 1
+    },
+    {
+        "phrase": "INDEX   DERPTR",
+        "value": 1
+    },
+    {
+        "phrase": "CA   MPAC",
+        "value": 1
+    },
+    {
+        "phrase": "DCA   TPIP",
+        "value": 1
+    },
+    {
+        "phrase": "3/8DP",
+        "value": 1
+    },
+    {
+        "phrase": "OCT   34",
+        "value": 1
+    },
+    {
+        "phrase": "KILL GROUP 3:  DISPLAYS WILL BE",
+        "value": 1
+    },
+    {
+        "phrase": "OCT   21000",
+        "value": 1
+    },
+    {
+        "phrase": "Filename:   LUNAR_LANDING_GUIDANCE_EQUATIONS.agc",
+        "value": 1
+    },
+    {
+        "phrase": "TC   SHORTMP",
+        "value": 1
+    },
+    {
+        "phrase": "Page 801",
+        "value": 1
+    },
+    {
+        "phrase": "DERTABLL   ADRES   DERCOFN -3",
+        "value": 1
+    },
+    {
+        "phrase": "DISPCOMN   TC   BANKCALL",
+        "value": 1
+    },
+    {
+        "phrase": "about getting access to the (much) higher-quality images which Paul",
+        "value": 1
+    },
+    {
+        "phrase": "ZOOMTIME",
+        "value": 1
+    },
+    {
+        "phrase": "WHATDISP   TCF   P63DISPS",
+        "value": 1
+    },
+    {
+        "phrase": "DOT   SL1",
+        "value": 1
+    },
+    {
+        "phrase": "STOVL   /AFC/",
+        "value": 1
+    },
+    {
+        "phrase": "USING NEWTON'S METHOD STARTING WITH AN INITIAL GUESS FOR THE ROOT.  THE ENTERING DATA MUST BE AS FOLLOWS:",
+        "value": 1
+    },
+    {
+        "phrase": "TREDES BECOMES ZERO TWO PASSES",
+        "value": 1
+    },
+    {
+        "phrase": "ROUTINES TO START NEW PHASES",
+        "value": 1
+    },
+    {
+        "phrase": "TRIMACCL",
+        "value": 1
+    },
+    {
+        "phrase": "N:   DIMINISH ZERLINA, CONTINUE",
+        "value": 1
+    },
+    {
+        "phrase": "Mod history:   2009-05-23 HG   Transcribed from page images.",
+        "value": 1
+    },
+    {
+        "phrase": "THISTPIP",
+        "value": 3
+    },
+    {
+        "phrase": "REDESIGNATOR TRAP",
+        "value": 1
+    },
+    {
+        "phrase": "GROUP 5:  RETAIN ONLY PIPA TASK",
+        "value": 1
+    },
+    {
+        "phrase": "CS   TWO",
+        "value": 4
+    },
+    {
+        "phrase": "AUGMENT TTF/8",
+        "value": 1
+    },
+    {
+        "phrase": "-2   TC   PHASCHNG",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   P65START",
+        "value": 1
+    },
+    {
+        "phrase": "TS   FWEIGHT",
+        "value": 1
+    },
+    {
+        "phrase": "TPIPOLD",
+        "value": 1
+    },
+    {
+        "phrase": "EXTEND",
+        "value": 50
+    },
+    {
+        "phrase": "P64CEED   CAF   ZERO",
+        "value": 1
+    },
+    {
+        "phrase": "TC   UPFLAG",
+        "value": 1
+    },
+    {
+        "phrase": "(2), (4), OR (6)",
+        "value": 1
+    },
+    {
+        "phrase": "V06N60   VN   0660",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   EXNORM",
+        "value": 1
+    },
+    {
+        "phrase": "TSCALINV   =   BIT4",
+        "value": 1
+    },
+    {
+        "phrase": "CA   RODCOUNT",
+        "value": 1
+    },
+    {
+        "phrase": "LUNAR LANDING FLIGHT SEQUENCE TABLES",
+        "value": 1
+    },
+    {
+        "phrase": "DISPEXIT   EXTEND",
+        "value": 1
+    },
+    {
+        "phrase": "CADR   ABS",
+        "value": 2
+    },
+    {
+        "phrase": "************************************************************************",
+        "value": 2
+    },
+    {
+        "phrase": "SLR   PUSH",
+        "value": 1
+    },
+    {
+        "phrase": "TAUVERT",
+        "value": 2
+    },
+    {
+        "phrase": "DCA   LANDTEMP +4",
+        "value": 2
+    },
+    {
+        "phrase": "OTHERWISE USE FLASHING DISPLAY",
+        "value": 1
+    },
+    {
+        "phrase": "AND IN ROOTPS",
+        "value": 1
+    },
+    {
+        "phrase": "WCHPHASE =  2 ---> VERTICAL",
+        "value": 1
+    },
+    {
+        "phrase": "READ CHAN30",
+        "value": 1
+    },
+    {
+        "phrase": "TO PICK UP THE TAG",
+        "value": 1
+    },
+    {
+        "phrase": "Page 810",
+        "value": 1
+    },
+    {
+        "phrase": "VSR2   VXSC",
+        "value": 1
+    },
+    {
+        "phrase": "ITRPNT2   EXIT",
+        "value": 1
+    },
+    {
+        "phrase": "VSL1   BVSU",
+        "value": 1
+    },
+    {
+        "phrase": "ON SUCCEEDING PASSES SKIP TTFINCR",
+        "value": 1
+    },
+    {
+        "phrase": "N-1 TO A",
+        "value": 1
+    },
+    {
+        "phrase": "CS   L",
+        "value": 2
+    },
+    {
+        "phrase": "ROOTLOOP   EXTEND",
+        "value": 1
+    },
+    {
+        "phrase": "14D",
+        "value": 1
+    },
+    {
+        "phrase": "***********************************************************************",
+        "value": 8
+    },
+    {
+        "phrase": "STODL   /AFC/",
+        "value": 1
+    },
+    {
+        "phrase": "___   __",
+        "value": 1
+    },
+    {
+        "phrase": "READ   CHAN31",
+        "value": 1
+    },
+    {
+        "phrase": "REDESMON   EXTEND",
+        "value": 1
+    },
+    {
+        "phrase": "STARTP67   TC   NEWMODEX",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   VRTSTART",
+        "value": 1
+    },
+    {
+        "phrase": "LEAVE DERIVATIVE IN BUF AS DIVISOR",
+        "value": 1
+    },
+    {
+        "phrase": "TS   TREDES",
+        "value": 1
+    },
+    {
+        "phrase": "CS   BUF +1",
+        "value": 1
+    },
+    {
+        "phrase": "AD   BUF",
+        "value": 2
+    },
+    {
+        "phrase": "PDVL   V/SC",
+        "value": 1
+    },
+    {
+        "phrase": "ENDLLJOB   TCF   ENDOFJOB",
+        "value": 1
+    },
+    {
+        "phrase": "V2FG - VGU",
+        "value": 1
+    },
+    {
+        "phrase": "This source code has been transcribed or otherwise adapted from",
+        "value": 1
+    },
+    {
+        "phrase": "WCHPHASE = 1   APPRQUAD",
+        "value": 1
+    },
+    {
+        "phrase": "___   __       ___   __",
+        "value": 1
+    },
+    {
+        "phrase": "TS   FLPASS0",
+        "value": 1
+    },
+    {
+        "phrase": "Page 804",
+        "value": 1
+    },
+    {
+        "phrase": "A(0) = -24 (RGU  - RDG )/64 TO TABLTTF",
+        "value": 1
+    },
+    {
+        "phrase": "VXSC   VXV",
+        "value": 1
+    },
+    {
+        "phrase": "TC   DOWNFLAG",
+        "value": 4
+    },
+    {
+        "phrase": "BRSPOT2   INDEX   WCHPHASE",
+        "value": 1
+    },
+    {
+        "phrase": "CA   TREDES",
+        "value": 1
+    },
+    {
+        "phrase": "RGVGCALC COMPUTATIONS ARE AS FOLLOWS:--",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   PREGUIDE",
+        "value": 1
+    },
+    {
+        "phrase": "TEMPORARY, I HOPE HOPE HOPE",
+        "value": 2
+    },
+    {
+        "phrase": "(2)",
+        "value": 7
+    },
+    {
+        "phrase": "UNFC/2 +4",
+        "value": 2
+    },
+    {
+        "phrase": "NO.",
+        "value": 1
+    },
+    {
+        "phrase": "CCS   ZERLINA",
+        "value": 1
+    },
+    {
+        "phrase": "NOOP",
+        "value": 1
+    },
+    {
+        "phrase": "SET DESIRED ALTITUDE RATE = CURRENT",
+        "value": 1
+    },
+    {
+        "phrase": "N = 3",
+        "value": 1
+    },
+    {
+        "phrase": "GUILDRET   CAF   ZERO",
+        "value": 1
+    },
+    {
+        "phrase": "BVSU   STADR",
+        "value": 1
+    },
+    {
+        "phrase": "TC   VARDELAY",
+        "value": 1
+    },
+    {
+        "phrase": "YNBPIP",
+        "value": 2
+    },
+    {
+        "phrase": "11D",
+        "value": 2
+    },
+    {
+        "phrase": "MAKE SURE REDESIGNATION IS NOT",
+        "value": 1
+    },
+    {
+        "phrase": "DCS   DXCRIT",
+        "value": 1
+    },
+    {
+        "phrase": "0",
+        "value": 2
+    },
+    {
+        "phrase": "YES:  DO STATIC DISPLAY",
+        "value": 1
+    },
+    {
+        "phrase": "LUNAR LANDING CONSTANTS",
+        "value": 1
+    },
+    {
+        "phrase": "ALTITUDE RATE.",
+        "value": 1
+    },
+    {
+        "phrase": "DCA   TTF/8TMP",
+        "value": 1
+    },
+    {
+        "phrase": "STORE   UNWC/2",
+        "value": 2
+    },
+    {
+        "phrase": "VLOAD   VSU",
+        "value": 3
+    },
+    {
+        "phrase": "A   SP   LOC-3   ADRES FOR REFERENCING PWR COF TABL",
+        "value": 1
+    },
+    {
+        "phrase": "4.  THE ITERATION COUNT RETURNED IN MPAC+2 MAY BE USED TO DETECT ABNORMAL PERFORMANCE.",
+        "value": 1
+    },
+    {
+        "phrase": "UNITX",
+        "value": 1
+    },
+    {
+        "phrase": "DEC66   DEC   66",
+        "value": 1
+    },
+    {
+        "phrase": "BIASFACT   2DEC   655.36 B-28",
+        "value": 1
+    },
+    {
+        "phrase": "COEFFICIENT FOR RDG-RGU TERM",
+        "value": 1
+    },
+    {
+        "phrase": "GUIDANCE LOOP DISPLAYS",
+        "value": 1
+    },
+    {
+        "phrase": "CCS   NGUIDSUB",
+        "value": 1
+    },
+    {
+        "phrase": "(0)",
+        "value": 5
+    },
+    {
+        "phrase": "DEPRCRIT",
+        "value": 2
+    },
+    {
+        "phrase": "1/2DEG   DEC   +.00278",
+        "value": 1
+    },
+    {
+        "phrase": "a couple of lines of code that shouldn't",
+        "value": 1
+    },
+    {
+        "phrase": "HAS TREDES REACHED ZERO?",
+        "value": 1
+    },
+    {
+        "phrase": "GUIDANCE FOR P66",
+        "value": 1
+    },
+    {
+        "phrase": "STODL   LASTTPIP",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   RGVGCALC",
+        "value": 2
+    },
+    {
+        "phrase": "TCF   WHATGUID",
+        "value": 1
+    },
+    {
+        "phrase": "RESETRPT   CAF   BIT12",
+        "value": 1
+    },
+    {
+        "phrase": "TS   DELVROD +4",
+        "value": 1
+    },
+    {
+        "phrase": "XCH   EBANK",
+        "value": 1
+    },
+    {
+        "phrase": "PREMON2   CAF   SEVEN",
+        "value": 1
+    },
+    {
+        "phrase": "BZF   RESTART?",
+        "value": 1
+    },
+    {
+        "phrase": "STORE   22D",
+        "value": 1
+    },
+    {
+        "phrase": "2",
+        "value": 2
+    },
+    {
+        "phrase": "TS   WCHVERT",
+        "value": 1
+    },
+    {
+        "phrase": "1.   EXGSUB IS THE RETURN WHEN GUIDSUB IS CALLED BY THE IGNITION ALGORITHM.",
+        "value": 1
+    },
+    {
+        "phrase": "Page 816",
+        "value": 1
+    },
+    {
+        "phrase": "CA   5",
+        "value": 1
+    },
+    {
+        "phrase": "ALL4BITS   OCT   00063",
+        "value": 1
+    },
+    {
+        "phrase": "_   ____",
+        "value": 1
+    },
+    {
+        "phrase": "COUNT*   $$/R13",
+        "value": 1
+    },
+    {
+        "phrase": "COMPUTE STATE IN GUIDANCE COORDINATES",
+        "value": 1
+    },
+    {
+        "phrase": "TS   LOOKANGL",
+        "value": 1
+    },
+    {
+        "phrase": "YES.  REINITIALIZE BUT LEAVE VDGVERT AS",
+        "value": 1
+    },
+    {
+        "phrase": "JUST HIGHER THAN SERVICER'S PRIORITY",
+        "value": 1
+    },
+    {
+        "phrase": "SOUND THE ALARM NON-ABORTIVELY",
+        "value": 1
+    },
+    {
+        "phrase": "VSR2   PDVL",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   TTFINCR",
+        "value": 3
+    },
+    {
+        "phrase": "CA   OLDPIPAY",
+        "value": 1
+    },
+    {
+        "phrase": "ADRES   REDFLAG",
+        "value": 4
+    },
+    {
+        "phrase": "CADR   THROTTLE +3",
+        "value": 1
+    },
+    {
+        "phrase": "P64DISPS   CA   TREDES",
+        "value": 1
+    },
+    {
+        "phrase": "COEFFICIENT FOR VDG TERM",
+        "value": 1
+    },
+    {
+        "phrase": "DESCBITS   MASK   BIT7",
+        "value": 1
+    },
+    {
+        "phrase": "DXCH   LAND +2",
+        "value": 1
+    },
+    {
+        "phrase": "AD   1/2DEG",
+        "value": 1
+    },
+    {
+        "phrase": "ALL ERASABLES USED BY ROOTPSRS ARE UNSWITCHED LOCATED IN THE REGION FROM MPAC-33 OCT TO MPAC+7.",
+        "value": 1
+    },
+    {
+        "phrase": "YES. SWITCH INTO THE ROD MODE.",
+        "value": 1
+    },
+    {
+        "phrase": "BPL   DLOAD",
+        "value": 1
+    },
+    {
+        "phrase": "VLOAD   UNIT",
+        "value": 1
+    },
+    {
+        "phrase": "CADR   DISPEXIT +3",
+        "value": 1
+    },
+    {
+        "phrase": "N:    HAS ZERLINA REACHED ZERO YET?",
+        "value": 1
+    },
+    {
+        "phrase": "SETLOC   LANDCNST",
+        "value": 1
+    },
+    {
+        "phrase": "DXCH   TPIPOLD",
+        "value": 1
+    },
+    {
+        "phrase": "CCS   FLPASS0",
+        "value": 1
+    },
+    {
+        "phrase": "******************************************************************",
+        "value": 2
+    },
+    {
+        "phrase": "CAF   TWO",
+        "value": 4
+    },
+    {
+        "phrase": "RESET PUSH DOWN POINTER",
+        "value": 1
+    },
+    {
+        "phrase": "STORE   TABLTTF",
+        "value": 1
+    },
+    {
+        "phrase": "UNFC/2",
+        "value": 3
+    },
+    {
+        "phrase": "ADS   BUF +1",
+        "value": 1
+    },
+    {
+        "phrase": "RESTART?   CA   FLAGWRD1",
+        "value": 1
+    },
+    {
+        "phrase": "SCALE MPAC TO M/CS *2(-7) AND PUSH    (6)",
+        "value": 1
+    },
+    {
+        "phrase": "DEGREE - ONE",
+        "value": 1
+    },
+    {
+        "phrase": "KLUMPP SAYS GIVE UP AFTER EIGHT PASSES",
+        "value": 1
+    },
+    {
+        "phrase": "was performed by Paul Fjeld, and arranged for by Deborah Douglas of",
+        "value": 1
+    },
+    {
+        "phrase": "22D",
+        "value": 1
+    },
+    {
+        "phrase": "PUSH   BDSU",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   STEER?",
+        "value": 2
+    },
+    {
+        "phrase": "HAS THERE BEEN A RESTART?",
+        "value": 1
+    },
+    {
+        "phrase": "CA   EBANK5",
+        "value": 2
+    },
+    {
+        "phrase": "EBANK=   CG",
+        "value": 1
+    },
+    {
+        "phrase": "RATESTOP   CAF   BIT13",
+        "value": 1
+    },
+    {
+        "phrase": "SETLOC   F2DPS*11",
+        "value": 1
+    },
+    {
+        "phrase": "STORE   LASTTPIP",
+        "value": 1
+    },
+    {
+        "phrase": "YES: SKIP REDESIGNATION LOGIC.",
+        "value": 1
+    },
+    {
+        "phrase": "find that the images are illegible, contact me at info@sandroid.org",
+        "value": 1
+    },
+    {
+        "phrase": "Y:   RESET RUPT. TERMINATE",
+        "value": 1
+    },
+    {
+        "phrase": "NO. CONTINUE WITH AUTOMATIC LANDING",
+        "value": 1
+    },
+    {
+        "phrase": "LOOKANGL WILL BE COMPUTED AT RGVGCALC",
+        "value": 1
+    },
+    {
+        "phrase": "RTB   DOT",
+        "value": 1
+    },
+    {
+        "phrase": "(8)",
+        "value": 2
+    },
+    {
+        "phrase": "OCT   00035",
+        "value": 2
+    },
+    {
+        "phrase": "INITIALIZE REDESIGNATION FLAG",
+        "value": 1
+    },
+    {
+        "phrase": "OCT   01410",
+        "value": 1
+    },
+    {
+        "phrase": "*******************************************************************",
+        "value": 2
+    },
+    {
+        "phrase": "P64",
+        "value": 1
+    },
+    {
+        "phrase": "36D",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   RESETRPT",
+        "value": 1
+    },
+    {
+        "phrase": "/LAND/",
+        "value": 3
+    },
+    {
+        "phrase": "STODL   TABLTTF +4",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   PREMON2",
+        "value": 1
+    },
+    {
+        "phrase": "Page 819",
+        "value": 1
+    },
+    {
+        "phrase": "BADROOT   TC   RETROOT",
+        "value": 1
+    },
+    {
+        "phrase": "RGU",
+        "value": 1
+    },
+    {
+        "phrase": "CADR   REFLASHR",
+        "value": 1
+    },
+    {
+        "phrase": "TS   ZERLINA",
+        "value": 1
+    },
+    {
+        "phrase": "EBANK=   DVCNTR",
+        "value": 1
+    },
+    {
+        "phrase": "BZMF   WHATEXIT",
+        "value": 1
+    },
+    {
+        "phrase": "VXV   VSL1",
+        "value": 2
+    },
+    {
+        "phrase": "UNIT   VXSC",
+        "value": 1
+    },
+    {
+        "phrase": "UPDATE HCALC1 FOR NOUN 63.",
+        "value": 1
+    },
+    {
+        "phrase": "*************************************************************************************",
+        "value": 4
+    },
+    {
+        "phrase": "VDG   =   VBRFG",
+        "value": 1
+    },
+    {
+        "phrase": "MUST BE POS SO ABS WON'T COMP MPAC+3 ETC.",
+        "value": 1
+    },
+    {
+        "phrase": "VRTSTART   TS   WCHVERT",
+        "value": 1
+    },
+    {
+        "phrase": "GUILDENSTERN:  AUTO-MODES MONITOR (R13)",
+        "value": 1
+    },
+    {
+        "phrase": "DEPRESSION ANGLE FOR DISPLAY:",
+        "value": 1
+    },
+    {
+        "phrase": "VDG2TTF,1",
+        "value": 1
+    },
+    {
+        "phrase": "UNFC/2 +2",
+        "value": 1
+    },
+    {
+        "phrase": "IS REDFLAG SET?",
+        "value": 1
+    },
+    {
+        "phrase": "REDES1   DLOAD   DSU",
+        "value": 1
+    },
+    {
+        "phrase": "1    0",
+        "value": 1
+    },
+    {
+        "phrase": "VLOAD   MXV",
+        "value": 1
+    },
+    {
+        "phrase": "IF FLUNDISP IS SET, NO DISPLAY THIS PASS",
+        "value": 1
+    },
+    {
+        "phrase": "UPDATE DESIRED ALTITUDE RATE.",
+        "value": 1
+    },
+    {
+        "phrase": "LXCH   EBANK",
+        "value": 1
+    },
+    {
+        "phrase": "Page 808",
+        "value": 1
+    },
+    {
+        "phrase": "OUTPUTS ARE NOT TO BE TRUSTED.",
+        "value": 1
+    },
+    {
+        "phrase": "have survived from Luminary 131 to here.",
+        "value": 1
+    },
+    {
+        "phrase": "BRSPOT4   INDEX   WCHPHASE",
+        "value": 1
+    },
+    {
+        "phrase": "DXCH   TTF/8TMP",
+        "value": 1
+    },
+    {
+        "phrase": "INCR   MODE",
+        "value": 1
+    },
+    {
+        "phrase": "SIN(25')/8 TO COMPARE WITH PROJ",
+        "value": 1
+    },
+    {
+        "phrase": "VAD   STADR",
+        "value": 1
+    },
+    {
+        "phrase": "LOOKANGL = ARCSIN(UNIT(R - LAND).XMBPIP)",
+        "value": 1
+    },
+    {
+        "phrase": "ADDRESS FOR REFERENCING TTF TABLE",
+        "value": 1
+    },
+    {
+        "phrase": "DLOAD   PUSH",
+        "value": 1
+    },
+    {
+        "phrase": "ADS   BUF",
+        "value": 1
+    },
+    {
+        "phrase": "WOR   CHAN13",
+        "value": 2
+    },
+    {
+        "phrase": "STODL*   TABLTTF +6",
+        "value": 1
+    },
+    {
+        "phrase": "TS   FCOLD",
+        "value": 1
+    },
+    {
+        "phrase": "OCT   01406",
+        "value": 2
+    },
+    {
+        "phrase": "GOOD RETURN",
+        "value": 1
+    },
+    {
+        "phrase": "STOVL   RANGEDSP",
+        "value": 1
+    },
+    {
+        "phrase": "EXBRAK   TC   INTPRET",
+        "value": 1
+    },
+    {
+        "phrase": "RDG   =   RBRFG",
+        "value": 1
+    },
+    {
+        "phrase": "YES: CLEAR REDESIGNATION FLAG",
+        "value": 1
+    },
+    {
+        "phrase": "RODFLAG",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   COUNT'EM",
+        "value": 1
+    },
+    {
+        "phrase": "COEFFICIENT FOR VGU TERM",
+        "value": 1
+    },
+    {
+        "phrase": "KILL GROUP 5",
+        "value": 1
+    },
+    {
+        "phrase": "PDVL   CALL",
+        "value": 1
+    },
+    {
+        "phrase": "TS   MPAC +1",
+        "value": 1
+    },
+    {
+        "phrase": "EBANK=   PHSNAME2",
+        "value": 1
+    },
+    {
+        "phrase": "30-31D CONTAINS TIME IN CS SINCE PIPTIME",
+        "value": 1
+    },
+    {
+        "phrase": "DCA   MPAC +3",
+        "value": 1
+    },
+    {
+        "phrase": "TTF/8 UPDATED FOR TIME SINCE LAST PASS:",
+        "value": 1
+    },
+    {
+        "phrase": "STARTP66   TC   FASTCHNG",
+        "value": 1
+    },
+    {
+        "phrase": "IF NOT IN P64, NO REASON TO CONTINUE",
+        "value": 1
+    },
+    {
+        "phrase": "V/SC   GOTO",
+        "value": 1
+    },
+    {
+        "phrase": "OCT   05023",
+        "value": 1
+    },
+    {
+        "phrase": "DMP   DAD",
+        "value": 1
+    },
+    {
+        "phrase": "_   ____  ______",
+        "value": 1
+    },
+    {
+        "phrase": "PWR TABLE POINTER",
+        "value": 1
+    },
+    {
+        "phrase": "DXCH   ROOTPS",
+        "value": 1
+    },
+    {
+        "phrase": "30D",
+        "value": 2
+    },
+    {
+        "phrase": "TC   ROOTPSRS",
+        "value": 1
+    },
+    {
+        "phrase": "PBIASX",
+        "value": 1
+    },
+    {
+        "phrase": "ABVAL",
+        "value": 3
+    },
+    {
+        "phrase": "INDEX   RETROOT",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   DISPEXIT",
+        "value": 1
+    },
+    {
+        "phrase": "BY FORCING -TTF*LEADTIME > OR = ZERO",
+        "value": 1
+    },
+    {
+        "phrase": "BEFORE TCGFAPPR IS REACHED",
+        "value": 1
+    },
+    {
+        "phrase": "LANDING SITE VECTOR UPDATED FOR LUNAR ROTATION:",
+        "value": 1
+    },
+    {
+        "phrase": "NO: CONTINUE WITH R.O.D.",
+        "value": 1
+    },
+    {
+        "phrase": "VXSC   VXSC",
+        "value": 1
+    },
+    {
+        "phrase": "DXCH   RUPTREG1",
+        "value": 1
+    },
+    {
+        "phrase": "HDOTDISP",
+        "value": 3
+    },
+    {
+        "phrase": "PDDL   DMP",
+        "value": 1
+    },
+    {
+        "phrase": "SETLOC   RODTRAP",
+        "value": 1
+    },
+    {
+        "phrase": "RETURN IS NORMALLY TO LOC(TC ROOTPSRS)+3.  IF ROOTPSRS FAILS TO CONVERGE TO IN 8 PASSES, RETURN IS TO LOC+1 AND",
+        "value": 1
+    },
+    {
+        "phrase": "IGNITION ALGORITHM ENTRY:  DELIVERS N PASSES OF QUADRATIC GUIDANCE",
+        "value": 1
+    },
+    {
+        "phrase": "BVSU   RTB",
+        "value": 1
+    },
+    {
+        "phrase": "ACG = ADG + ----------- + ------------",
+        "value": 1
+    },
+    {
+        "phrase": "TS   MODE",
+        "value": 3
+    },
+    {
+        "phrase": "YES:  SKIP REDESIGNATION LOGIC",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   ENDLLJOB",
+        "value": 1
+    },
+    {
+        "phrase": "TARGTDEX   OCT   0",
+        "value": 1
+    },
+    {
+        "phrase": "ADS   PWRPTR",
+        "value": 1
+    },
+    {
+        "phrase": "RDG +4,1",
+        "value": 1
+    },
+    {
+        "phrase": "DMP   DAD*",
+        "value": 1
+    },
+    {
+        "phrase": "YIELDS TTF/8 IN MPAC",
+        "value": 1
+    },
+    {
+        "phrase": "STORE   V",
+        "value": 1
+    },
+    {
+        "phrase": "NO:  DO A STOPRATE",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   P64CEED",
+        "value": 1
+    },
+    {
+        "phrase": "RTB   PUSH",
+        "value": 1
+    },
+    {
+        "phrase": "ARE WE IN ATTITUDE-HOLD?",
+        "value": 2
+    },
+    {
+        "phrase": "BDSU   DDV",
+        "value": 1
+    },
+    {
+        "phrase": "ABVAL   PDDL",
+        "value": 1
+    },
+    {
+        "phrase": "TC   CHECKMM",
+        "value": 1
+    },
+    {
+        "phrase": "CDU*NBSM",
+        "value": 1
+    },
+    {
+        "phrase": "MP   TSCALINV",
+        "value": 1
+    },
+    {
+        "phrase": "TS   MPAC +4",
+        "value": 1
+    },
+    {
+        "phrase": "DCA   ROOTPS",
+        "value": 2
+    },
+    {
+        "phrase": "MASK   -ELBIT",
+        "value": 1
+    },
+    {
+        "phrase": "WITH PROJ IN MPAC 1/8 REAL SIZE",
+        "value": 1
+    },
+    {
+        "phrase": "VXSC   VSU",
+        "value": 1
+    },
+    {
+        "phrase": "(CONTINUE TO DISPEXIT)",
+        "value": 1
+    },
+    {
+        "phrase": "TS   L",
+        "value": 4
+    },
+    {
+        "phrase": "MPAC(Y) = PIPAY + PIPATMPY",
+        "value": 1
+    },
+    {
+        "phrase": "CCS   L",
+        "value": 2
+    },
+    {
+        "phrase": "HIGHESTF   2DEC   4.34546769 B-12",
+        "value": 1
+    },
+    {
+        "phrase": "***********************************************************************************",
+        "value": 2
+    },
+    {
+        "phrase": "EBANK=   UNWC/2",
+        "value": 1
+    },
+    {
+        "phrase": "VXSC   VSL1",
+        "value": 2
+    },
+    {
+        "phrase": "PREPARE FOR PHASE SWITCHING LOGIC",
+        "value": 1
+    },
+    {
+        "phrase": "TC   USPRCADR",
+        "value": 3
+    },
+    {
+        "phrase": "CGCALC   CAF   EBANK5",
+        "value": 1
+    },
+    {
+        "phrase": "RED-OVER   TC   DOWNFLAG",
+        "value": 1
+    },
+    {
+        "phrase": "ADG,1",
+        "value": 1
+    },
+    {
+        "phrase": "BZF   RATESTOP",
+        "value": 1
+    },
+    {
+        "phrase": "(EXOVFLOW IS A SUBROUTINE OF EXBRAK AND EXNORM CALLED WHEN OVERFLOW OCCURRED ANYWHERE IN GUIDANCE.)",
+        "value": 1
+    },
+    {
+        "phrase": "ADG2TTF,1",
+        "value": 1
+    },
+    {
+        "phrase": "YES",
+        "value": 3
+    },
+    {
+        "phrase": "CA   ELINCR1",
+        "value": 1
+    },
+    {
+        "phrase": "CA   TENDBRAK",
+        "value": 1
+    },
+    {
+        "phrase": "LASTTPIP",
+        "value": 1
+    },
+    {
+        "phrase": "ROOT NONETHELESS, BUT IT MAY TAKE AN EXCESSIVE NUMBER OF ITERATIONS.  THEREFORE THE USER SHOULD RECOGNIZE:",
+        "value": 1
+    },
+    {
+        "phrase": "TS   TEMY",
+        "value": 1
+    },
+    {
+        "phrase": "TS   WCHPHASE",
+        "value": 2
+    },
+    {
+        "phrase": "*********************************************************************",
+        "value": 6
+    },
+    {
+        "phrase": "STEER?   CA   FLAGWRD2",
+        "value": 1
+    },
+    {
+        "phrase": "ENTRY POINTS:  ?GUIDSUB FOR THE IGNITION ALGORITHM, LUNLAND FOR SERVOUT",
+        "value": 1
+    },
+    {
+        "phrase": "AFCSPOT",
+        "value": 2
+    },
+    {
+        "phrase": "ROOTPSRS FINDS ONE ROOT OF THE POWER SERIES A X  + A   X    + ... + A X + A",
+        "value": 1
+    },
+    {
+        "phrase": "DXCH   MPAC",
+        "value": 9
+    },
+    {
+        "phrase": "VSU   V/SC",
+        "value": 1
+    },
+    {
+        "phrase": "UPDATE HDOTDISP RATE FOR NOUN 63.",
+        "value": 1
+    },
+    {
+        "phrase": "TS   PWRPTR",
+        "value": 1
+    },
+    {
+        "phrase": "CA   MODE",
+        "value": 2
+    },
+    {
+        "phrase": "INDEX   TARGTDEX",
+        "value": 1
+    },
+    {
+        "phrase": "MAIN GUIDANCE EQUATION",
+        "value": 1
+    },
+    {
+        "phrase": "CS   MPAC",
+        "value": 1
+    },
+    {
+        "phrase": "P63",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   PREMON1",
+        "value": 1
+    },
+    {
+        "phrase": "DXCH   TPIP",
+        "value": 1
+    },
+    {
+        "phrase": "PUSH DOWN - ELINCR(YNB * UNIT(LAND - R))",
+        "value": 1
+    },
+    {
+        "phrase": "UNIT",
+        "value": 1
+    },
+    {
+        "phrase": "TS   NGUIDSUB",
+        "value": 1
+    },
+    {
+        "phrase": "GDT/2",
+        "value": 3
+    },
+    {
+        "phrase": "CADR   REGODSPR",
+        "value": 1
+    },
+    {
+        "phrase": "LOADS TTF/8 (INITIAL GUESS) INTO MPAC",
+        "value": 1
+    },
+    {
+        "phrase": "EXVERT   CA   OVFIND",
+        "value": 1
+    },
+    {
+        "phrase": "PRECLUDE EVENTUAL CONVERGENCE.",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   CALCRGVG",
+        "value": 2
+    },
+    {
+        "phrase": "TCF   WHATDISP",
+        "value": 1
+    },
+    {
+        "phrase": "P66NOW?   CS   MODREG",
+        "value": 1
+    },
+    {
+        "phrase": "EXTLOGIC   INDEX   WCHPHASE",
+        "value": 1
+    },
+    {
+        "phrase": "AD   PIPATMPX",
+        "value": 1
+    },
+    {
+        "phrase": "VXSC   PDDL",
+        "value": 2
+    },
+    {
+        "phrase": "YIELDS DP PRODUCT IN MPAC",
+        "value": 1
+    },
+    {
+        "phrase": "STODL   HCALC1",
+        "value": 1
+    },
+    {
+        "phrase": "ABS(DX)-ABS(DXCRIT) IN MPAC",
+        "value": 1
+    },
+    {
+        "phrase": "V06N64   VN   0664",
+        "value": 1
+    },
+    {
+        "phrase": "NEWPHASE   TCF   TTFINCR",
+        "value": 1
+    },
+    {
+        "phrase": "TS   TABLTTF +10",
+        "value": 1
+    },
+    {
+        "phrase": "OCT   01412",
+        "value": 1
+    },
+    {
+        "phrase": "DAS   TTF/8TMP",
+        "value": 1
+    },
+    {
+        "phrase": "INDEX   WCHPHASE",
+        "value": 3
+    },
+    {
+        "phrase": "TS   EBANK",
+        "value": 3
+    },
+    {
+        "phrase": "AD   TEMY",
+        "value": 1
+    },
+    {
+        "phrase": "DEPRCRIT   2DEC   -.02 B-1",
+        "value": 1
+    },
+    {
+        "phrase": "TTF        (TTF)(TTF)",
+        "value": 1
+    },
+    {
+        "phrase": "+AZ   CA   AZEACH",
+        "value": 1
+    },
+    {
+        "phrase": "N:   ANY LAST PASS?",
+        "value": 1
+    },
+    {
+        "phrase": "DDV   PDVL",
+        "value": 1
+    },
+    {
+        "phrase": "TOO CLOSE TO THE HORIZON.",
+        "value": 1
+    },
+    {
+        "phrase": "IS.",
+        "value": 1
+    },
+    {
+        "phrase": "UNLESS THE CURRENT PROGRAM IS P67 IN WHICH CASE THERE IS NO CHANGE",
+        "value": 1
+    },
+    {
+        "phrase": "MPAC(Z) = PIPAZ + PIPATMPZ",
+        "value": 1
+    },
+    {
+        "phrase": "FETCH ROOT GUESS, KEEPING IT IN MPAC",
+        "value": 1
+    },
+    {
+        "phrase": "INCR   FLPASS0",
+        "value": 1
+    },
+    {
+        "phrase": "DCA   NEG0",
+        "value": 1
+    },
+    {
+        "phrase": "POSITIVE NON-ZERO ---> P67",
+        "value": 1
+    },
+    {
+        "phrase": "ADG2TTF   =   ABRFG*",
+        "value": 1
+    },
+    {
+        "phrase": "Y:   CONTINUE MONITOR",
+        "value": 1
+    },
+    {
+        "phrase": "GET COEFFICIENT FOR UNIT(LAND - R)",
+        "value": 1
+    },
+    {
+        "phrase": "COMPUTE CRITERION TO STOP ITERATING",
+        "value": 1
+    },
+    {
+        "phrase": "SL   DMP",
+        "value": 1
+    },
+    {
+        "phrase": "STORE   UNFC/2",
+        "value": 2
+    },
+    {
+        "phrase": "4SEC(28)",
+        "value": 1
+    },
+    {
+        "phrase": "Page 825",
+        "value": 1
+    },
+    {
+        "phrase": "XCH   RUPTREG3",
+        "value": 1
+    },
+    {
+        "phrase": "STOVL   VHORIZ",
+        "value": 1
+    },
+    {
+        "phrase": "AD   MPAC",
+        "value": 1
+    },
+    {
+        "phrase": "FINDCDUW -2",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   STARTP67",
+        "value": 1
+    },
+    {
+        "phrase": "COMPUTE TRIM VELOCITY CORRECTION TERM.",
+        "value": 1
+    },
+    {
+        "phrase": "COM",
+        "value": 2
+    },
+    {
+        "phrase": "IN IGNALG, COMPUTE V FROM INTEGRATION",
+        "value": 1
+    },
+    {
+        "phrase": "CA   AZINCR1",
+        "value": 1
+    },
+    {
+        "phrase": "CS   OLDPIPAY",
+        "value": 1
+    },
+    {
+        "phrase": "TABLTTFL   ADRES   TABLTTF +3",
+        "value": 1
+    },
+    {
+        "phrase": "SLANT RANGE TO LANDING SITE, FOR DISPLAY:",
+        "value": 1
+    },
+    {
+        "phrase": "-ELBIT   =   BIT1",
+        "value": 1
+    },
+    {
+        "phrase": "STODL   DELVROD",
+        "value": 1
+    },
+    {
+        "phrase": "TS   AZINCR",
+        "value": 1
+    },
+    {
+        "phrase": "CORRECTED ROOT NOW IN ROOTPS",
+        "value": 1
+    },
+    {
+        "phrase": "CA   DELTTFAP",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   REDESIG",
+        "value": 1
+    },
+    {
+        "phrase": "___   *   _   __   _",
+        "value": 1
+    },
+    {
+        "phrase": "TTF/8",
+        "value": 4
+    },
+    {
+        "phrase": "INCREMENT PASS COUNTER",
+        "value": 1
+    },
+    {
+        "phrase": "ERECT GUIDANCE-STABLE MEMBER TRANSFORMATION MATRIX",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   DISPCOMN",
+        "value": 2
+    },
+    {
+        "phrase": "- RATE INCREMENT, BIT 6 + INCREMENT.",
+        "value": 1
+    },
+    {
+        "phrase": "DAS   MPAC",
+        "value": 1
+    },
+    {
+        "phrase": "WM",
+        "value": 2
+    },
+    {
+        "phrase": "+3   CS   FLAGWRD8",
+        "value": 1
+    },
+    {
+        "phrase": "PDVL   ABVAL",
+        "value": 1
+    },
+    {
+        "phrase": "0D",
+        "value": 1
+    },
+    {
+        "phrase": "SET UP DER COF TABL",
+        "value": 1
+    },
+    {
+        "phrase": "AD   +DEC99",
+        "value": 1
+    },
+    {
+        "phrase": "MPAC   DP   X   INITIAL GUESS FOR ROOT",
+        "value": 1
+    },
+    {
+        "phrase": "DCA   LANDTEMP",
+        "value": 2
+    },
+    {
+        "phrase": "DCA   TIME2",
+        "value": 1
+    },
+    {
+        "phrase": "STORE   LANDTEMP",
+        "value": 1
+    },
+    {
+        "phrase": "TS   26D",
+        "value": 1
+    },
+    {
+        "phrase": "EXSPOT1   EXTEND",
+        "value": 1
+    },
+    {
+        "phrase": "Page 817",
+        "value": 1
+    },
+    {
+        "phrase": "A(2) = 6 ADG  TO TABLTTF",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   1406ALM",
+        "value": 1
+    },
+    {
+        "phrase": "SO NO NEED FOR A FASTCHNG AND NO NEED",
+        "value": 1
+    },
+    {
+        "phrase": "AD   TTF/8",
+        "value": 4
+    },
+    {
+        "phrase": "SPECIALIZED 'PHASCHNG' ROUTINE",
+        "value": 1
+    },
+    {
+        "phrase": "GUIDANCE EQUATIONS:",
+        "value": 1
+    },
+    {
+        "phrase": "STORE   RGU",
+        "value": 1
+    },
+    {
+        "phrase": "BZF   STRTP66A",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   WHATALM",
+        "value": 1
+    },
+    {
+        "phrase": "EXIT",
+        "value": 12
+    },
+    {
+        "phrase": "RGU +4",
+        "value": 1
+    },
+    {
+        "phrase": "NO:  SKIP REDESIGNATION LOGIC",
+        "value": 1
+    },
+    {
+        "phrase": "NO SHIFT SINCE ANGTERM IS DOUBLE SIZED",
+        "value": 1
+    },
+    {
+        "phrase": "CA   BIT8",
+        "value": 1
+    },
+    {
+        "phrase": "LAND",
+        "value": 9
+    },
+    {
+        "phrase": "DEC   65",
+        "value": 1
+    },
+    {
+        "phrase": "MODE USED AS ITERATION COUNTER.  MODE",
+        "value": 1
+    },
+    {
+        "phrase": "DSU   DMP",
+        "value": 1
+    },
+    {
+        "phrase": "AFCSPOT   DLOAD",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   2",
+        "value": 1
+    },
+    {
+        "phrase": "TAUROD",
+        "value": 1
+    },
+    {
+        "phrase": "7 OR 6 OF CHANNEL 16 IN A; BIT 7 MEANS",
+        "value": 1
+    },
+    {
+        "phrase": "DCA   LANDTEMP +2",
+        "value": 2
+    },
+    {
+        "phrase": "TTF/8 = TTF/8 + (TPIP - TPIPOLD)/8",
+        "value": 1
+    },
+    {
+        "phrase": "Page 806 actually starts one line earlier but that would separate the markers from their variables",
+        "value": 1
+    },
+    {
+        "phrase": "Y:    COUNT 'EM, RESET RUPT, TERMINATE",
+        "value": 1
+    },
+    {
+        "phrase": "RETURN ADRES",
+        "value": 1
+    },
+    {
+        "phrase": "DELVROD",
+        "value": 1
+    },
+    {
+        "phrase": "STORE   VGU",
+        "value": 1
+    },
+    {
+        "phrase": "QUADGUID   CS   TTF/8",
+        "value": 1
+    },
+    {
+        "phrase": "TERMINATE GROUP 3.",
+        "value": 2
+    },
+    {
+        "phrase": "TCF   DERCLOOP",
+        "value": 1
+    },
+    {
+        "phrase": "IS UN-AUTO-THROTTLE DISCRETE PRESENT?",
+        "value": 1
+    },
+    {
+        "phrase": "MP   CG +14",
+        "value": 1
+    },
+    {
+        "phrase": "CG",
+        "value": 4
+    },
+    {
+        "phrase": "___   ___   6(VDG + VG)   12(RDG - RG)",
+        "value": 1
+    },
+    {
+        "phrase": "16:27 JULY 14, 1969",
+        "value": 1
+    },
+    {
+        "phrase": "_______   _   _   __",
+        "value": 1
+    },
+    {
+        "phrase": "(CONTINUE TO EXTLOGIC)",
+        "value": 1
+    },
+    {
+        "phrase": "DECREMENT DER POINTER",
+        "value": 1
+    },
+    {
+        "phrase": "XCH   RODCOUNT",
+        "value": 1
+    },
+    {
+        "phrase": "TO SEE IF ALREADY IN P67.",
+        "value": 1
+    },
+    {
+        "phrase": "TS   ELINCR1",
+        "value": 2
+    },
+    {
+        "phrase": "THE P65 GUIDANCE EQUATION IS AS FOLLOWS --",
+        "value": 1
+    },
+    {
+        "phrase": "STORE   VHORIZ",
+        "value": 1
+    },
+    {
+        "phrase": "VSU   RTB",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   STARTP66",
+        "value": 1
+    },
+    {
+        "phrase": "VLOAD   RTB",
+        "value": 1
+    },
+    {
+        "phrase": "**************************************************************************",
+        "value": 6
+    },
+    {
+        "phrase": "Page 818",
+        "value": 1
+    },
+    {
+        "phrase": "TS   ELVIRA",
+        "value": 1
+    },
+    {
+        "phrase": "R.O.D. TRAP",
+        "value": 1
+    },
+    {
+        "phrase": "MXV   VSL1",
+        "value": 1
+    },
+    {
+        "phrase": "INDICES FOR REFERENCING TARGET PARAMETERS",
+        "value": 1
+    },
+    {
+        "phrase": "SET PD TO 0",
+        "value": 1
+    },
+    {
+        "phrase": "VELOCITY RELATIVE TO THE SURFACE:",
+        "value": 1
+    },
+    {
+        "phrase": "VAD",
+        "value": 2
+    },
+    {
+        "phrase": "Page 828",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   WHATEXIT",
+        "value": 1
+    },
+    {
+        "phrase": "VHORCOMP   VSL2   VAD",
+        "value": 1
+    },
+    {
+        "phrase": "VDG,1",
+        "value": 1
+    },
+    {
+        "phrase": "ADS   TTF/8TMP",
+        "value": 1
+    },
+    {
+        "phrase": "V2FG",
+        "value": 1
+    },
+    {
+        "phrase": "TRASHY LITTLE SUBROUTINES",
+        "value": 1
+    },
+    {
+        "phrase": "Page 826",
+        "value": 1
+    },
+    {
+        "phrase": "UNIT(LAND - R) IS TENTATIVE CHOICE",
+        "value": 1
+    },
+    {
+        "phrase": "DXCH   MPAC +3",
+        "value": 1
+    },
+    {
+        "phrase": "IF OVERFLOW ANYWHERE IN GUIDANCE",
+        "value": 1
+    },
+    {
+        "phrase": "FETCH TTF/8 KEEPING IT IN MPAC",
+        "value": 1
+    },
+    {
+        "phrase": "Page 821",
+        "value": 1
+    },
+    {
+        "phrase": "STORE   UNFC/2 +4",
+        "value": 1
+    },
+    {
+        "phrase": "QXCH   QRUPT",
+        "value": 1
+    },
+    {
+        "phrase": "-AZBIT   =   BIT6",
+        "value": 1
+    },
+    {
+        "phrase": "PUT UP V06N60 DISPLAY BUT AVOID PHASCHNG",
+        "value": 1
+    },
+    {
+        "phrase": "MASK   ALL4BITS",
+        "value": 2
+    },
+    {
+        "phrase": "ACG = ----------",
+        "value": 1
+    },
+    {
+        "phrase": "BZF   GUILDRET",
+        "value": 1
+    },
+    {
+        "phrase": "Page 802",
+        "value": 1
+    },
+    {
+        "phrase": "KPIP1",
+        "value": 2
+    },
+    {
+        "phrase": "FWEIGHT",
+        "value": 1
+    },
+    {
+        "phrase": "2.   EXBRAK IN THE EXIT USED DURING THE BRAKING PHASE.  IN THIS CASE UNIT(R) IS THE WINDOW POINTING VECTOR.",
+        "value": 1
+    },
+    {
+        "phrase": "3/4DP",
+        "value": 2
+    },
+    {
+        "phrase": "+AZBIT   =   BIT5",
+        "value": 1
+    },
+    {
+        "phrase": "BIASFACT",
+        "value": 1
+    },
+    {
+        "phrase": "ABVAL   SL3",
+        "value": 1
+    },
+    {
+        "phrase": "AD   RUPTREG2",
+        "value": 1
+    },
+    {
+        "phrase": "DISCRETE TO SELECT P67 OR P66 RESPECTIVELY:   ON EVERY APPEARANCE OF THE ATTITUDE-HOLD DISCRETE TO SELECT P66",
+        "value": 1
+    },
+    {
+        "phrase": "BIT1H",
+        "value": 1
+    },
+    {
+        "phrase": "SETPD",
+        "value": 1
+    },
+    {
+        "phrase": "COMPUTED LAST PASS AND LEFT IN UNFC/2",
+        "value": 1
+    },
+    {
+        "phrase": "legal in GAP but not in yaYUL.  Eliminated",
+        "value": 1
+    },
+    {
+        "phrase": "EBANK=   TCGIBRAK",
+        "value": 1
+    },
+    {
+        "phrase": "EBANK=   TTF/8",
+        "value": 2
+    },
+    {
+        "phrase": "JDG2TTF   =   JBRFG*",
+        "value": 1
+    },
+    {
+        "phrase": "HIGHESTF",
+        "value": 1
+    },
+    {
+        "phrase": "CORRECTED TTF/8",
+        "value": 1
+    },
+    {
+        "phrase": "Notations on the hardcopy document read, in part:",
+        "value": 1
+    },
+    {
+        "phrase": "TS   Q",
+        "value": 1
+    },
+    {
+        "phrase": "BZF   RGVGCALC",
+        "value": 2
+    },
+    {
+        "phrase": "TESTLODX   CCS   MPAC +1",
+        "value": 1
+    },
+    {
+        "phrase": "MASK   FLUNDBIT",
+        "value": 1
+    },
+    {
+        "phrase": "************************",
+        "value": 1
+    },
+    {
+        "phrase": "GUIDSUB   TS   NGUIDSUB",
+        "value": 1
+    },
+    {
+        "phrase": "AD   -DEC103",
+        "value": 1
+    },
+    {
+        "phrase": "BDDV   STADR",
+        "value": 1
+    },
+    {
+        "phrase": "AFCCALC3   SQRT   DAD",
+        "value": 1
+    },
+    {
+        "phrase": "MASK   +AZBIT",
+        "value": 1
+    },
+    {
+        "phrase": "Page 800",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   GUIDSUB",
+        "value": 1
+    },
+    {
+        "phrase": "...",
+        "value": 1
+    },
+    {
+        "phrase": "Page 809",
+        "value": 1
+    },
+    {
+        "phrase": "COME HERE FROM MARKRUPT CODING WITH BIT",
+        "value": 1
+    },
+    {
+        "phrase": "PDDL   VXSC*",
+        "value": 1
+    },
+    {
+        "phrase": "28D",
+        "value": 1
+    },
+    {
+        "phrase": "**********************************************************",
+        "value": 2
+    },
+    {
+        "phrase": "LEAVE IN MPAC",
+        "value": 1
+    },
+    {
+        "phrase": "TS   X1",
+        "value": 1
+    },
+    {
+        "phrase": "VXV   RTB",
+        "value": 1
+    },
+    {
+        "phrase": "Contact:   HARTMUTH GUTSCHE <hgutsche@xplornet.com>.",
+        "value": 1
+    },
+    {
+        "phrase": "TC   NEWMODEX",
+        "value": 1
+    },
+    {
+        "phrase": "DELVS",
+        "value": 1
+    },
+    {
+        "phrase": "VSU   VXSC",
+        "value": 1
+    },
+    {
+        "phrase": "STODL   LANDTEMP",
+        "value": 1
+    },
+    {
+        "phrase": "MXV",
+        "value": 1
+    },
+    {
+        "phrase": "FORM (0,VG ,VG ) IN UNITS OF 2(10) M/CS",
+        "value": 1
+    },
+    {
+        "phrase": "PRECLUDE CONVERGENCE OR REQUIRE EXCESSIVE ITERATIONS.  AS A SPECIFIC EXAMPLE, ROOTPSRS FORMS A DERIVATIVE",
+        "value": 1
+    },
+    {
+        "phrase": "A(N) TO MPAC",
+        "value": 1
+    },
+    {
+        "phrase": "VERTGUID   CCS   WCHVERT",
+        "value": 1
+    },
+    {
+        "phrase": "ADS   TREDES",
+        "value": 1
+    },
+    {
+        "phrase": "VERTDISP   CAF   V06N60",
+        "value": 1
+    },
+    {
+        "phrase": "ROUTINES FOR STARTING NEW GUIDANCE PHASES:",
+        "value": 1
+    },
+    {
+        "phrase": "(CONTINUE TO QUADGUID)",
+        "value": 1
+    },
+    {
+        "phrase": "COEFFICIENT TABLE = 1 OR >1 IN MAGNITUDE, ONLY THE EXCESS IS RETAINED.  ROOTPSRS MAY CONVERGE ON THE CORRECT",
+        "value": 1
+    },
+    {
+        "phrase": "GSCALE",
+        "value": 2
+    },
+    {
+        "phrase": "VERTICAL",
+        "value": 5
+    },
+    {
+        "phrase": "BRAKQUAD",
+        "value": 8
+    },
+    {
+        "phrase": "DCS   MPAC",
+        "value": 1
+    },
+    {
+        "phrase": "CCS   PWRCNT",
+        "value": 1
+    },
+    {
+        "phrase": "TS   AZINCR  +1",
+        "value": 1
+    },
+    {
+        "phrase": "-AZ   CS   AZEACH",
+        "value": 1
+    },
+    {
+        "phrase": "AD   RUPTREG1",
+        "value": 1
+    },
+    {
+        "phrase": "TRAP IS RESET WHEN SWITCH IS RELEASED",
+        "value": 1
+    },
+    {
+        "phrase": "MASS",
+        "value": 4
+    },
+    {
+        "phrase": "TPIP",
+        "value": 1
+    },
+    {
+        "phrase": "********************************************************",
+        "value": 2
+    },
+    {
+        "phrase": "AFCCLEND   EXIT",
+        "value": 1
+    },
+    {
+        "phrase": "P67VERT   TC   PHASCHNG",
+        "value": 1
+    },
+    {
+        "phrase": "VLOAD   GOTO",
+        "value": 1
+    },
+    {
+        "phrase": "DCA   1",
+        "value": 1
+    },
+    {
+        "phrase": "DO ANY BITS APPEAR THIS PASS?",
+        "value": 1
+    },
+    {
+        "phrase": "TS   MPAC",
+        "value": 2
+    },
+    {
+        "phrase": "PWR TABLE ADRES",
+        "value": 1
+    },
+    {
+        "phrase": "+3   TC   POSTJUMP",
+        "value": 1
+    },
+    {
+        "phrase": "PBIASZ",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   P64DISPS",
+        "value": 2
+    },
+    {
+        "phrase": "TS   RODCOUNT",
+        "value": 2
+    },
+    {
+        "phrase": "Page 807",
+        "value": 1
+    },
+    {
+        "phrase": "2009-06-07 RSB   Fixed a typo.",
+        "value": 1
+    },
+    {
+        "phrase": "STORE   CG +14",
+        "value": 1
+    },
+    {
+        "phrase": "CCS   Q",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   INTPRET",
+        "value": 1
+    },
+    {
+        "phrase": "MAXFORCE",
+        "value": 1
+    },
+    {
+        "phrase": "PRECAUTION:  ROOTPSRS MAKES NO CHECKS FOR OVERFLOW OR FOR IMPROPER USAGE.  IMPROPER USAGE COULD",
+        "value": 1
+    },
+    {
+        "phrase": "AZINCR",
+        "value": 1
+    },
+    {
+        "phrase": "RGVGCALC   TC   INTPRET",
+        "value": 1
+    },
+    {
+        "phrase": "RESCALE TO UNITS OF 2(9) M/CS",
+        "value": 1
+    },
+    {
+        "phrase": "DCA   MPAC +5",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   EXTLOGIC",
+        "value": 2
+    },
+    {
+        "phrase": "2    1",
+        "value": 1
+    },
+    {
+        "phrase": "LAG/TAU",
+        "value": 1
+    },
+    {
+        "phrase": "ENABLE RUPT10",
+        "value": 1
+    },
+    {
+        "phrase": "OCT   0",
+        "value": 1
+    },
+    {
+        "phrase": "ELINCR",
+        "value": 1
+    },
+    {
+        "phrase": "REDES-OK   CAF   V06N64",
+        "value": 1
+    },
+    {
+        "phrase": "CCS   ELVIRA",
+        "value": 1
+    },
+    {
+        "phrase": "STODL*   TABLTTF +2",
+        "value": 1
+    },
+    {
+        "phrase": "GAINBRAK,1",
+        "value": 1
+    },
+    {
+        "phrase": "PDDL   DDV",
+        "value": 2
+    },
+    {
+        "phrase": "TCF   AFTRGUID",
+        "value": 1
+    },
+    {
+        "phrase": "HERE IS THE PHILOSOPHY OF GUILDENSTERN:   ON EVERY APPEARANCE OR DISAPPEARANCE OF THE MANUAL THROTTLE",
+        "value": 1
+    },
+    {
+        "phrase": "IS UN-ATTITUDE-HOLD DISCRETE PRESENT?",
+        "value": 1
+    },
+    {
+        "phrase": "CG +6",
+        "value": 2
+    },
+    {
+        "phrase": "TCF   1406P00",
+        "value": 1
+    },
+    {
+        "phrase": "NORMAL ENTRY:  CONTROL COMES HERE FROM SERVOUT",
+        "value": 1
+    },
+    {
+        "phrase": "CAF   FOUR",
+        "value": 1
+    },
+    {
+        "phrase": "+ELBIT   =   BIT2",
+        "value": 1
+    },
+    {
+        "phrase": "GROUP 3:  PROTECT GUIDANCE WITH PRIO 21",
+        "value": 1
+    },
+    {
+        "phrase": "RAND   CHAN31",
+        "value": 3
+    },
+    {
+        "phrase": "UNFC/2 NEED NOT BE UNITIZED",
+        "value": 1
+    },
+    {
+        "phrase": "INCR   BBANK",
+        "value": 6
+    },
+    {
+        "phrase": "WCHPHASE = 2 ---> VERTICAL: P65,P66,P67",
+        "value": 1
+    },
+    {
+        "phrase": "ANGTERM",
+        "value": 1
+    },
+    {
+        "phrase": "RODCOMP   INHINT",
+        "value": 1
+    },
+    {
+        "phrase": "AD   TEMX",
+        "value": 1
+    },
+    {
+        "phrase": "VAD   VSR2",
+        "value": 1
+    },
+    {
+        "phrase": "DXCH   LAND     +2",
+        "value": 1
+    },
+    {
+        "phrase": "INDEX   PWRPTR",
+        "value": 2
+    },
+    {
+        "phrase": "INCREMENT TTF/8, UPDATE LAND FOR LUNAR ROTATION, DO OTHER USEFUL THINGS",
+        "value": 1
+    },
+    {
+        "phrase": "DDV   DSU",
+        "value": 1
+    },
+    {
+        "phrase": "STABL?   CAF   BIT13",
+        "value": 1
+    },
+    {
+        "phrase": "BZF   REDES-OK",
+        "value": 1
+    },
+    {
+        "phrase": "ALARM ROUTINE FOR TTF COMPUTATION:",
+        "value": 1
+    },
+    {
+        "phrase": "DOUBLE PRECISION ROOT FINDER SUBROUTINE (BY ALLAN KLUMPP)",
+        "value": 1
+    },
+    {
+        "phrase": "TC   INTPRET",
+        "value": 5
+    },
+    {
+        "phrase": "VSL2   VAD",
+        "value": 1
+    },
+    {
+        "phrase": "digitized images of a hardcopy from the MIT Museum.  The digitization",
+        "value": 1
+    },
+    {
+        "phrase": "FLIGHT SEQUENCE TABLES ARE ARRANGED BY FUNCTION.  THEY ARE REFERENCED USING AS AN INDEX THE REGISTER WCHPHASE:",
+        "value": 1
+    },
+    {
+        "phrase": "WCHPHASE = -1 ---> IGNALG",
+        "value": 1
+    },
+    {
+        "phrase": "SCALEFAC",
+        "value": 1
+    },
+    {
+        "phrase": "PICK UP UPDATED VELOCITY VECTOR.",
+        "value": 1
+    },
+    {
+        "phrase": "P65START   TC   NEWMODEX",
+        "value": 1
+    },
+    {
+        "phrase": "ZERO LO-ORDER MPAC COMPONENTS",
+        "value": 1
+    },
+    {
+        "phrase": "DXCH   BUF",
+        "value": 1
+    },
+    {
+        "phrase": "SIN(15')/8 TO COMPARE WITH PROJ",
+        "value": 1
+    },
+    {
+        "phrase": "DXCH   UNWC/2",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   STARTP64",
+        "value": 1
+    },
+    {
+        "phrase": "DLOAD   DSU",
+        "value": 2
+    },
+    {
+        "phrase": "CS   PROJMIN",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   STABL?",
+        "value": 1
+    },
+    {
+        "phrase": "Purpose:    Part of the source code for Luminary 1A build 099.",
+        "value": 1
+    },
+    {
+        "phrase": "STARTP64   TC   NEWMODEX",
+        "value": 1
+    },
+    {
+        "phrase": "____   ___",
+        "value": 1
+    },
+    {
+        "phrase": "MP   RODSCAL1",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   GUILDRET +2",
+        "value": 1
+    },
+    {
+        "phrase": "ZEROVECS",
+        "value": 3
+    },
+    {
+        "phrase": "INITIALIZATION FOR THIS PASS",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   +3",
+        "value": 1
+    },
+    {
+        "phrase": "RECYCLE",
+        "value": 1
+    },
+    {
+        "phrase": "TS   DELVROD +2",
+        "value": 1
+    },
+    {
+        "phrase": "TS   FWEIGHT +1",
+        "value": 1
+    },
+    {
+        "phrase": "STORE   30D",
+        "value": 1
+    },
+    {
+        "phrase": "CA   L",
+        "value": 4
+    },
+    {
+        "phrase": "DXCH   TTFDISP",
+        "value": 1
+    },
+    {
+        "phrase": "ZL",
+        "value": 1
+    },
+    {
+        "phrase": "LOOP COUNTER",
+        "value": 1
+    },
+    {
+        "phrase": "2   1",
+        "value": 1
+    },
+    {
+        "phrase": "TS   PUSHLOC",
+        "value": 2
+    },
+    {
+        "phrase": "DAD   PDDL",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   EXGSUB",
+        "value": 1
+    },
+    {
+        "phrase": "RESTORED BY NEXT GUIDANCE CYCLE.",
+        "value": 1
+    },
+    {
+        "phrase": "BZF   DISPEXIT",
+        "value": 1
+    },
+    {
+        "phrase": "____   _",
+        "value": 2
+    },
+    {
+        "phrase": "STORE   ANGTERM",
+        "value": 1
+    },
+    {
+        "phrase": "DDV   BDDV",
+        "value": 1
+    },
+    {
+        "phrase": "IF STEERSW DOWN NO OUTPUTS",
+        "value": 1
+    },
+    {
+        "phrase": "TEMX",
+        "value": 1
+    },
+    {
+        "phrase": "NO HARM IN \"STARTING\" P67 OVER AND OVER",
+        "value": 1
+    },
+    {
+        "phrase": "WINDOW VECTOR COMPUTATIONS:",
+        "value": 1
+    },
+    {
+        "phrase": "FRACTIONAL PRECISION FOR TTF TO TABLE",
+        "value": 1
+    },
+    {
+        "phrase": "BIT1H   OCT   00001",
+        "value": 1
+    },
+    {
+        "phrase": "ENTER HERE TO RECOMPUTE RG AND VG",
+        "value": 1
+    },
+    {
+        "phrase": "CONVERGE ON ROOT",
+        "value": 1
+    },
+    {
+        "phrase": "NOW HAVE INCREMENTED TTF/8 IN TTF/8TMP",
+        "value": 1
+    },
+    {
+        "phrase": "UNWCLOOP   MASK   SIX",
+        "value": 1
+    },
+    {
+        "phrase": "VAD   PUSH",
+        "value": 1
+    },
+    {
+        "phrase": "A(3) = 8 JDG  TO TABLTTF",
+        "value": 1
+    },
+    {
+        "phrase": "SET RUPTREG1,2,3 = OLDPIPAX,Y,Z",
+        "value": 1
+    },
+    {
+        "phrase": "VATT1",
+        "value": 1
+    },
+    {
+        "phrase": "Website:   www.ibiblio.org/apollo.",
+        "value": 1
+    },
+    {
+        "phrase": "(6)",
+        "value": 4
+    },
+    {
+        "phrase": "VXSC   VAD",
+        "value": 1
+    },
+    {
+        "phrase": "SETLOC   F2DPS*31",
+        "value": 1
+    },
+    {
+        "phrase": "ACG = ---------------------------- + ADG",
+        "value": 1
+    },
+    {
+        "phrase": "1406ALM   TC   ALARM",
+        "value": 1
+    },
+    {
+        "phrase": "ROOTSTOR   DXCH   ROOTPS",
+        "value": 1
+    },
+    {
+        "phrase": "ROOTPSRS   EXTEND",
+        "value": 1
+    },
+    {
+        "phrase": "ADRES   RODTASK",
+        "value": 1
+    },
+    {
+        "phrase": "VGU",
+        "value": 2
+    },
+    {
+        "phrase": "TC   ALARM",
+        "value": 1
+    },
+    {
+        "phrase": "DXCH   TTF/8",
+        "value": 2
+    },
+    {
+        "phrase": "VLOAD",
+        "value": 2
+    },
+    {
+        "phrase": "2.  USER'S RESPONSIBILITY TO ASSURE OVERFLOW WILL NOT OCCUR IN EVALUATING EITHER THE RESIDUAL OR THE DERIVATIVE",
+        "value": 1
+    },
+    {
+        "phrase": "LOAD A, L WITH DER TABL ADRES, N-2",
+        "value": 1
+    },
+    {
+        "phrase": "DEC   64",
+        "value": 2
+    },
+    {
+        "phrase": "available online at www.ibiblio.org/apollo.  If for some reason you",
+        "value": 1
+    },
+    {
+        "phrase": "LOOKANGL FOR DISPLAY DURING P64",
+        "value": 1
+    },
+    {
+        "phrase": "RATIO SQUARED - RATIO",
+        "value": 1
+    },
+    {
+        "phrase": "/AFC/",
+        "value": 1
+    },
+    {
+        "phrase": "TC   TWIDDLE",
+        "value": 2
+    },
+    {
+        "phrase": "ADG   =   ABRFG",
+        "value": 1
+    },
+    {
+        "phrase": "DECIDE (1) HOW TO EXIT, AND (2) WHETHER TO SWITCH PHASES",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   RATESTOP",
+        "value": 1
+    },
+    {
+        "phrase": "Assembler:   yaYUL",
+        "value": 1
+    },
+    {
+        "phrase": "CADR   DDUMCALC",
+        "value": 1
+    },
+    {
+        "phrase": "GSCALE   2DEC   100 B-11",
+        "value": 1
+    },
+    {
+        "phrase": "PARAMETER TABLE INDIRECT ADDRESSES",
+        "value": 1
+    },
+    {
+        "phrase": "AS PUBLISHED --",
+        "value": 1
+    },
+    {
+        "phrase": "PRE-GUIDANCE COMPUTATIONS:",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   CGCALC",
+        "value": 2
+    },
+    {
+        "phrase": "DXCH   LAND    +4",
+        "value": 1
+    },
+    {
+        "phrase": "AFCCALC3",
+        "value": 1
+    },
+    {
+        "phrase": "CS   ONE",
+        "value": 1
+    },
+    {
+        "phrase": "+2   EXTEND",
+        "value": 1
+    },
+    {
+        "phrase": "CURRENT ROOT TO MPAC, FETCHING DERIVATIVE",
+        "value": 1
+    },
+    {
+        "phrase": "CADR   DDV/BDDV",
+        "value": 1
+    },
+    {
+        "phrase": "P65, P66, P67",
+        "value": 1
+    },
+    {
+        "phrase": "actually created.",
+        "value": 1
+    },
+    {
+        "phrase": "CA   OLDPIPAZ",
+        "value": 1
+    },
+    {
+        "phrase": "SLOAD   VDEF",
+        "value": 1
+    },
+    {
+        "phrase": "26D",
+        "value": 1
+    },
+    {
+        "phrase": "AFCCALC1   VXM   VSL1",
+        "value": 1
+    },
+    {
+        "phrase": "AMAXHORIZ = SQRT(ATOTAL - A  - A  )",
+        "value": 1
+    },
+    {
+        "phrase": "TS   ELINCR",
+        "value": 1
+    },
+    {
+        "phrase": "COUNT*   $$/F2DPS",
+        "value": 7
+    },
+    {
+        "phrase": "SAFEGUARD THE COMPUTATIONS THAT FOLLOW",
+        "value": 1
+    },
+    {
+        "phrase": "DLOAD",
+        "value": 1
+    },
+    {
+        "phrase": "NO POWER SERIES DEGREE 1 OR LESS",
+        "value": 1
+    },
+    {
+        "phrase": "PROJMIN   DEC   .25882 B-3",
+        "value": 1
+    },
+    {
+        "phrase": "CRITERION",
+        "value": 1
+    },
+    {
+        "phrase": "RODSCALE",
+        "value": 1
+    },
+    {
+        "phrase": "-PITCH",
+        "value": 1
+    },
+    {
+        "phrase": "YIELDS DERIVATIVE IN MPAC",
+        "value": 1
+    },
+    {
+        "phrase": "NORMUNIT",
+        "value": 7
+    },
+    {
+        "phrase": "DISPLAY ROUTINES:",
+        "value": 1
+    },
+    {
+        "phrase": "REFSMMAT",
+        "value": 1
+    },
+    {
+        "phrase": "RESULTING VECTOR IS 1/2 REAL SIZE",
+        "value": 1
+    },
+    {
+        "phrase": "COMPUTE LOOKANGLE ITSELF",
+        "value": 1
+    },
+    {
+        "phrase": "INDEX   Q",
+        "value": 3
+    },
+    {
+        "phrase": "(I-1) TO MPAC, FETCHING DERCOF",
+        "value": 1
+    },
+    {
+        "phrase": "YIELDS RESIDUAL IN MPAC",
+        "value": 1
+    },
+    {
+        "phrase": "TS   DELVROD",
+        "value": 1
+    },
+    {
+        "phrase": "WHATALM   TCF   1406ALM",
+        "value": 1
+    },
+    {
+        "phrase": "VERTICAL COMPONENT",
+        "value": 1
+    },
+    {
+        "phrase": "INTPRETX   INDEX   WCHPHASE",
+        "value": 1
+    },
+    {
+        "phrase": "EXNORM   TC   INTPRET",
+        "value": 1
+    },
+    {
+        "phrase": "HORIZONTAL VELOCITY FOR DISPLAY",
+        "value": 1
+    },
+    {
+        "phrase": "BANK   20",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   NEWPHASE",
+        "value": 1
+    },
+    {
+        "phrase": "STOVL   OLDPIPAX",
+        "value": 1
+    },
+    {
+        "phrase": "-DEC103   DEC   -103",
+        "value": 1
+    },
+    {
+        "phrase": "DDV   DSQ",
+        "value": 1
+    },
+    {
+        "phrase": "CCS   A",
+        "value": 9
+    },
+    {
+        "phrase": "Assemble revision 001 of AGC program LMY99 by NASA 2021112-61",
+        "value": 1
+    },
+    {
+        "phrase": "LUNLAND   TC   PHASCHNG",
+        "value": 1
+    },
+    {
+        "phrase": "COUNT'EM   CAF   BIT13",
+        "value": 1
+    },
+    {
+        "phrase": "CS   OLDPIPAX",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   ROOTLOOP",
+        "value": 2
+    },
+    {
+        "phrase": "POWER SERIES.  THIS OVERFLOW WOULD BE PRODUCED BY SUBROUTINE POWRSERS, CALLED BY ROOTPSRS, AND MIGHT NOT",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   GUILDRET",
+        "value": 1
+    },
+    {
+        "phrase": "1/2 DEGREE",
+        "value": 1
+    },
+    {
+        "phrase": "OUT-OF-PLANE",
+        "value": 1
+    },
+    {
+        "phrase": "BANK   31",
+        "value": 1
+    },
+    {
+        "phrase": "MINFORCE",
+        "value": 1
+    },
+    {
+        "phrase": "DSU   PDDL",
+        "value": 1
+    },
+    {
+        "phrase": "SHFTFACT",
+        "value": 1
+    },
+    {
+        "phrase": "VLOAD   VXV",
+        "value": 1
+    },
+    {
+        "phrase": "VCOMP",
+        "value": 1
+    },
+    {
+        "phrase": "STORE UPDATED VELOCITY IN 24-29D",
+        "value": 1
+    },
+    {
+        "phrase": "MASK    -AZBIT",
+        "value": 1
+    },
+    {
+        "phrase": "LOC   DP   A(N)",
+        "value": 1
+    },
+    {
+        "phrase": "MASK   STEERBIT",
+        "value": 1
+    },
+    {
+        "phrase": "STOVL   CG +6",
+        "value": 1
+    },
+    {
+        "phrase": "STODL   HDOTDISP",
+        "value": 1
+    },
+    {
+        "phrase": "APPRQUAD",
+        "value": 8
+    },
+    {
+        "phrase": "DERCLOOP   TS   PWRCNT",
+        "value": 1
+    },
+    {
+        "phrase": "INDEX   FIXLOC",
+        "value": 4
+    },
+    {
+        "phrase": "STODL   RODSCAL1",
+        "value": 1
+    },
+    {
+        "phrase": "XCH   ELVIRA",
+        "value": 1
+    },
+    {
+        "phrase": "DCA   3",
+        "value": 1
+    },
+    {
+        "phrase": "Page 799",
+        "value": 1
+    },
+    {
+        "phrase": "GDUMP1   TC   THROTTLE",
+        "value": 1
+    },
+    {
+        "phrase": "AD   PIPATMPZ",
+        "value": 1
+    },
+    {
+        "phrase": "BZF   +13",
+        "value": 1
+    },
+    {
+        "phrase": "BDSU   BPL",
+        "value": 1
+    },
+    {
+        "phrase": "DXCH   DXCRIT",
+        "value": 1
+    },
+    {
+        "phrase": "DCA   MPAC",
+        "value": 2
+    },
+    {
+        "phrase": "DXCH   THISTPIP",
+        "value": 1
+    },
+    {
+        "phrase": "A(1) = (6 VGU  + 18 VDG )/8 TO TABLTTF",
+        "value": 1
+    },
+    {
+        "phrase": "NO. HAS THE ROD SWITCH BEEN \"CLICKED\"?",
+        "value": 1
+    },
+    {
+        "phrase": "STERN",
+        "value": 1
+    },
+    {
+        "phrase": "YES:  HAS TREDES REACHED ZERO?",
+        "value": 1
+    },
+    {
+        "phrase": "AFCCALC2   STODL   /AFC/",
+        "value": 1
+    },
+    {
+        "phrase": "TS   MPAC +6",
+        "value": 2
+    },
+    {
+        "phrase": "the Museum.  Many thanks to both.  The images (with suitable reduction",
+        "value": 1
+    },
+    {
+        "phrase": "WHATGUID   TCF   TTF/8CL",
+        "value": 1
+    },
+    {
+        "phrase": "VXV   DOT",
+        "value": 1
+    },
+    {
+        "phrase": "CA   DERTABLL",
+        "value": 1
+    },
+    {
+        "phrase": "3/4DP   2DEC   .750",
+        "value": 1
+    },
+    {
+        "phrase": "DAD   DSU",
+        "value": 1
+    },
+    {
+        "phrase": "AZEACH   DEC   .03491",
+        "value": 1
+    },
+    {
+        "phrase": "DER TABL POINTER",
+        "value": 1
+    },
+    {
+        "phrase": "3/8DP   2DEC   .375",
+        "value": 1
+    },
+    {
+        "phrase": "L   SP   N-1   N IS THE DEGREE OF THE POWER SERIES",
+        "value": 1
+    },
+    {
+        "phrase": "ITRPNT1   VXSC   PDDL",
+        "value": 1
+    },
+    {
+        "phrase": "TC   DMPNSUB",
+        "value": 1
+    },
+    {
+        "phrase": "BZF   RESETRPT",
+        "value": 1
+    },
+    {
+        "phrase": "2CADR   RODCOMP",
+        "value": 1
+    },
+    {
+        "phrase": "ADRES   XOVINFLG",
+        "value": 2
+    },
+    {
+        "phrase": "___        ____   _",
+        "value": 1
+    },
+    {
+        "phrase": "WCHPHASE =  1 ---> APPRQUAD",
+        "value": 1
+    },
+    {
+        "phrase": "LAND = /LAND/ UNIT(LAND - LAND(TPIP - TPIPOLD) * WM)",
+        "value": 1
+    },
+    {
+        "phrase": "CAF   V06N64",
+        "value": 1
+    },
+    {
+        "phrase": "XCH   BUF +1",
+        "value": 1
+    },
+    {
+        "phrase": "CA   MPAC +4",
+        "value": 1
+    },
+    {
+        "phrase": "LOAD A, L WITH PWR TABL ADRES, N-1",
+        "value": 1
+    },
+    {
+        "phrase": "FASTCHNG   CA   EBANK3",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   TASKOVER",
+        "value": 2
+    },
+    {
+        "phrase": "TTFSCALE   =   BIT12",
+        "value": 1
+    },
+    {
+        "phrase": "180DEGS   DEC   +180",
+        "value": 1
+    },
+    {
+        "phrase": "Page 814",
+        "value": 1
+    },
+    {
+        "phrase": "ZERO TEMX, TEMY, AND TEMZ SO WE WILL",
+        "value": 1
+    },
+    {
+        "phrase": "- RATIO OF LAG-DIMINISHED TTF TO TTF",
+        "value": 1
+    },
+    {
+        "phrase": "CAF   1SEC",
+        "value": 1
+    },
+    {
+        "phrase": "IGNALG",
+        "value": 7
+    },
+    {
+        "phrase": "TCF   ENDOFJOB",
+        "value": 1
+    },
+    {
+        "phrase": "DXCH   L",
+        "value": 1
+    },
+    {
+        "phrase": "PBIASY",
+        "value": 1
+    },
+    {
+        "phrase": "REDESIG   CA   FLAGWRD6",
+        "value": 1
+    },
+    {
+        "phrase": "XCH   L",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   TESTLODX",
+        "value": 1
+    },
+    {
+        "phrase": "DMP*   VXSC",
+        "value": 1
+    },
+    {
+        "phrase": "1406P00   TC   P00DOO",
+        "value": 1
+    },
+    {
+        "phrase": "BZF   ENDLLJOB",
+        "value": 1
+    },
+    {
+        "phrase": "PUSH DOWN R - LAND",
+        "value": 1
+    },
+    {
+        "phrase": "+0",
+        "value": 1
+    },
+    {
+        "phrase": "SPECIALIZED \"PHASCHNG\" SUBROUTINE",
+        "value": 1
+    },
+    {
+        "phrase": "STOVL   VBIAS",
+        "value": 1
+    },
+    {
+        "phrase": "PROCEED   PERMIT REDESIGNATIONS",
+        "value": 1
+    },
+    {
+        "phrase": "2 DEGREES",
+        "value": 1
+    },
+    {
+        "phrase": "P67NOW?   TC   CHECKMM",
+        "value": 1
+    },
+    {
+        "phrase": "PERMIT X-AXIS OVERRIDE",
+        "value": 2
+    },
+    {
+        "phrase": "Page 823",
+        "value": 1
+    },
+    {
+        "phrase": "NUMERO MYSTERIOSO",
+        "value": 1
+    },
+    {
+        "phrase": "AD   POSMAX",
+        "value": 5
+    },
+    {
+        "phrase": "TS   BUF +1",
+        "value": 2
+    },
+    {
+        "phrase": "RTB",
+        "value": 1
+    },
+    {
+        "phrase": "CAF   ZERO",
+        "value": 5
+    },
+    {
+        "phrase": "NOW IN MPAC IS SINE(LOOKANGL)/4",
+        "value": 1
+    },
+    {
+        "phrase": "GUILDEN   EXTEND",
+        "value": 1
+    },
+    {
+        "phrase": "YIELDS DERCOF = I X A(I) IN MPAC",
+        "value": 1
+    },
+    {
+        "phrase": "TTFINCR COMPUTATIONS ARE AS FOLLOWS --",
+        "value": 1
+    },
+    {
+        "phrase": "Page 812",
+        "value": 1
+    },
+    {
+        "phrase": "*********************************************************",
+        "value": 1
+    },
+    {
+        "phrase": "WCHPHASE = 0   BRAKQUAD",
+        "value": 1
+    },
+    {
+        "phrase": "DXCH   VDGVERT",
+        "value": 1
+    },
+    {
+        "phrase": "V06N63   VN   0663",
+        "value": 1
+    },
+    {
+        "phrase": "CALCRGVG   TC   INTPRET",
+        "value": 1
+    },
+    {
+        "phrase": "COEFFICIENT FOR ADG TERM",
+        "value": 1
+    },
+    {
+        "phrase": "CA   PIPAZ",
+        "value": 1
+    },
+    {
+        "phrase": "CA   WCHPHOLD",
+        "value": 1
+    },
+    {
+        "phrase": "(CONTINUE TO TTFINCR)",
+        "value": 1
+    },
+    {
+        "phrase": "Page 815",
+        "value": 1
+    },
+    {
+        "phrase": "INCREMENT ITERATION COUNTER",
+        "value": 1
+    },
+    {
+        "phrase": "CAF   TEN",
+        "value": 1
+    },
+    {
+        "phrase": "TS   28D",
+        "value": 1
+    },
+    {
+        "phrase": "THE DP RESULT IS LEFT IN MPAC UPON EXIT, AND A SP COUNT OF THE ITERATIONS TO CONVERGENCE IS LEFT IN MPAC+2.",
+        "value": 1
+    },
+    {
+        "phrase": "ADS   RODCOUNT",
+        "value": 1
+    },
+    {
+        "phrase": "Copyright:   Public domain.",
+        "value": 1
+    },
+    {
+        "phrase": "ADS   ELINCR1",
+        "value": 2
+    },
+    {
+        "phrase": "DCA   PIPTIME1",
+        "value": 1
+    },
+    {
+        "phrase": "EBANK=   E2DPS",
+        "value": 2
+    },
+    {
+        "phrase": "RODTASK   CAF   PRIO22",
+        "value": 1
+    },
+    {
+        "phrase": "*******************************************************************************",
+        "value": 2
+    },
+    {
+        "phrase": "NO",
+        "value": 1
+    },
+    {
+        "phrase": "THESE EQUIVALENCES ARE BASED ON GSOP CHAPTER 4, REVISION 16 OF P64LM",
+        "value": 1
+    },
+    {
+        "phrase": "TTF/8 COMPUTATION",
+        "value": 1
+    },
+    {
+        "phrase": "LEADTIME IS A NEGATIVE NUMBER",
+        "value": 1
+    },
+    {
+        "phrase": "BANK",
+        "value": 5
+    },
+    {
+        "phrase": "BANK   11",
+        "value": 1
+    },
+    {
+        "phrase": "BRSPOT3   INDEX   WCHPHASE",
+        "value": 1
+    },
+    {
+        "phrase": "Page 822",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   VERTDISP",
+        "value": 1
+    },
+    {
+        "phrase": "SINCE REDESIG MAY CHANGE LANDTEMP",
+        "value": 1
+    },
+    {
+        "phrase": "ANGTERM = V + R * WM",
+        "value": 1
+    },
+    {
+        "phrase": "TEST HI ORDER DX",
+        "value": 1
+    },
+    {
+        "phrase": "RESULT IS 0 IF PROJMAX - PROJ NEGATIVE",
+        "value": 1
+    },
+    {
+        "phrase": "VBIAS",
+        "value": 2
+    },
+    {
+        "phrase": "PDDL   VDEF",
+        "value": 1
+    },
+    {
+        "phrase": "CALL",
+        "value": 1
+    },
+    {
+        "phrase": "Page 803",
+        "value": 1
+    },
+    {
+        "phrase": "DAS   UNWC/2",
+        "value": 1
+    },
+    {
+        "phrase": "MASK   +ELBIT",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   RESUME",
+        "value": 3
+    },
+    {
+        "phrase": "KNOW WHEN READACCS CHANGES THEM.",
+        "value": 1
+    },
+    {
+        "phrase": "PREPARE TO EXIT",
+        "value": 1
+    },
+    {
+        "phrase": "20D",
+        "value": 1
+    },
+    {
+        "phrase": "STORE   14D",
+        "value": 1
+    },
+    {
+        "phrase": "SHIFT SCALES DELTA TIME TO 2(17) CSECS",
+        "value": 1
+    },
+    {
+        "phrase": "AD   DEC66",
+        "value": 1
+    },
+    {
+        "phrase": "NO:  IS REDFLAG SET?",
+        "value": 1
+    },
+    {
+        "phrase": "TS   PHSNAME3",
+        "value": 1
+    },
+    {
+        "phrase": "DEC   67",
+        "value": 2
+    },
+    {
+        "phrase": "PREGUIDE   TCF   RGVGCALC",
+        "value": 1
+    },
+    {
+        "phrase": "2      2",
+        "value": 1
+    },
+    {
+        "phrase": "Apollo Guidance Computer (AGC), for Apollo 11.",
+        "value": 1
+    },
+    {
+        "phrase": "2    2    2",
+        "value": 1
+    },
+    {
+        "phrase": "BPL   BDSU",
+        "value": 1
+    },
+    {
+        "phrase": "AD   ONE",
+        "value": 3
+    },
+    {
+        "phrase": "VAD   UNIT",
+        "value": 1
+    },
+    {
+        "phrase": "DCA   TTF/8",
+        "value": 2
+    },
+    {
+        "phrase": "AD   PIPATMPY",
+        "value": 1
+    },
+    {
+        "phrase": "CA   WCHPHASE",
+        "value": 1
+    },
+    {
+        "phrase": "Page 820",
+        "value": 1
+    },
+    {
+        "phrase": "COEFFICIENT TABLE BY MULTIPLYING EACH A(I) BY I, WHERE I RANGES FROM 1 TO N.  IF AN ELEMENT OF THE DERIVATIVE",
+        "value": 1
+    },
+    {
+        "phrase": "____               ____   ____                   __",
+        "value": 1
+    },
+    {
+        "phrase": "TS   30D",
+        "value": 1
+    },
+    {
+        "phrase": "RESULT IS 0 IF PROJ - PROJMIN NEGATIVE",
+        "value": 1
+    },
+    {
+        "phrase": "___   4 (    TTF/8               )   ___",
+        "value": 1
+    },
+    {
+        "phrase": "+EL   CA   ELEACH",
+        "value": 1
+    },
+    {
+        "phrase": "DSU",
+        "value": 1
+    },
+    {
+        "phrase": "CA   OLDPIPAX",
+        "value": 1
+    },
+    {
+        "phrase": "DXCH   OLDPIPAX",
+        "value": 1
+    },
+    {
+        "phrase": "2D",
+        "value": 3
+    },
+    {
+        "phrase": "ELEACH   DEC   .00873",
+        "value": 1
+    },
+    {
+        "phrase": "XNBPIP",
+        "value": 2
+    },
+    {
+        "phrase": "STOVL   24D",
+        "value": 1
+    },
+    {
+        "phrase": "DXCH   -PHASE3",
+        "value": 1
+    },
+    {
+        "phrase": "AD   NEGMAX",
+        "value": 1
+    },
+    {
+        "phrase": "AFCCLEND",
+        "value": 1
+    },
+    {
+        "phrase": "TS   TEMZ",
+        "value": 1
+    },
+    {
+        "phrase": "AS HERE PROGRAMMED --",
+        "value": 1
+    },
+    {
+        "phrase": "REDESIGNATOR MONITOR (INITIATED BY PITFALL)",
+        "value": 1
+    },
+    {
+        "phrase": "MP   BUF +1",
+        "value": 1
+    },
+    {
+        "phrase": "TC   BANKCALL",
+        "value": 6
+    },
+    {
+        "phrase": "DER TABL ADRES",
+        "value": 1
+    },
+    {
+        "phrase": "CS   FLAGWRD6",
+        "value": 1
+    },
+    {
+        "phrase": "ADS   DERPTR",
+        "value": 1
+    },
+    {
+        "phrase": "TS   MPAC +2",
+        "value": 1
+    },
+    {
+        "phrase": "VERGUID COMES HERE",
+        "value": 1
+    },
+    {
+        "phrase": "INHINT",
+        "value": 1
+    },
+    {
+        "phrase": "PRECROOT TO A",
+        "value": 1
+    },
+    {
+        "phrase": "+DEC99   DEC   +99",
+        "value": 1
+    },
+    {
+        "phrase": "INDEX   MPAC +3",
+        "value": 1
+    },
+    {
+        "phrase": "RESET FLPASS0",
+        "value": 1
+    },
+    {
+        "phrase": "SLOAD   PUSH",
+        "value": 2
+    },
+    {
+        "phrase": "DOT",
+        "value": 1
+    },
+    {
+        "phrase": "BANK   22",
+        "value": 1
+    },
+    {
+        "phrase": "DXCH   LAND +4",
+        "value": 1
+    },
+    {
+        "phrase": "TC   FINDVAC",
+        "value": 1
+    },
+    {
+        "phrase": "REDES1",
+        "value": 1
+    },
+    {
+        "phrase": "AD   PROJMAX",
+        "value": 1
+    },
+    {
+        "phrase": "VXSC   SET",
+        "value": 1
+    },
+    {
+        "phrase": "MPAC = MEASURED ACCELERATION.",
+        "value": 1
+    },
+    {
+        "phrase": "PITFALL   XCH   BANKRUPT",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   VERTGUID",
+        "value": 3
+    },
+    {
+        "phrase": "VGU = CG (V - WM * R)",
+        "value": 1
+    },
+    {
+        "phrase": "DSQ   PDDL",
+        "value": 2
+    },
+    {
+        "phrase": "3.  AT PRESENT, ERASABLE LOCATIONS ARE RESERVED ONLY FOR N UP TO 5.  AN N IN EXCESS OF 5 WILL PRODUCE CHAOS.",
+        "value": 1
+    },
+    {
+        "phrase": "TEST LO ORDER DX",
+        "value": 1
+    },
+    {
+        "phrase": "TREDESCL   DEC   -.08",
+        "value": 1
+    },
+    {
+        "phrase": "SECOND ROW",
+        "value": 1
+    },
+    {
+        "phrase": "YES ALL'S WELL",
+        "value": 1
+    },
+    {
+        "phrase": "OUTPUT AND TRIM CORRECTION TERM",
+        "value": 1
+    },
+    {
+        "phrase": "JDG2TTF,1",
+        "value": 1
+    },
+    {
+        "phrase": "DAD",
+        "value": 1
+    },
+    {
+        "phrase": "MP   TREDESCL",
+        "value": 1
+    },
+    {
+        "phrase": "WHATEXIT   TCF   EXBRAK",
+        "value": 1
+    },
+    {
+        "phrase": "DCA   PIPAX",
+        "value": 1
+    },
+    {
+        "phrase": "N        N-1",
+        "value": 1
+    },
+    {
+        "phrase": "?GUIDSUB   EXIT",
+        "value": 1
+    },
+    {
+        "phrase": "GET COEFFICIENT FOR CG +14",
+        "value": 1
+    },
+    {
+        "phrase": "3.   EXNORM IS THE EXIT USED AT OTHER TIMES DURING THE BURN.",
+        "value": 1
+    },
+    {
+        "phrase": "TS   MPAC +3",
+        "value": 1
+    },
+    {
+        "phrase": "RGU = CG (R - LAND)",
+        "value": 1
+    },
+    {
+        "phrase": "PWR TABLE ADRES, N-1",
+        "value": 1
+    },
+    {
+        "phrase": "DXCH   3",
+        "value": 1
+    },
+    {
+        "phrase": "VHORIZ = 8 ABVAL (0, VG , VG )",
+        "value": 1
+    },
+    {
+        "phrase": "QXCH   RETROOT",
+        "value": 1
+    },
+    {
+        "phrase": "SETLOC   P66LOC",
+        "value": 1
+    },
+    {
+        "phrase": "EBANK=   TCGFAPPR",
+        "value": 1
+    },
+    {
+        "phrase": "SHFTFACT   2DEC   1 B-17",
+        "value": 1
+    },
+    {
+        "phrase": "CCS   MPAC +4",
+        "value": 1
+    },
+    {
+        "phrase": "TS   TEMX",
+        "value": 1
+    },
+    {
+        "phrase": "VAD   VAD",
+        "value": 1
+    },
+    {
+        "phrase": "AFTRGUID   TCF   CGCALC",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   P66VERT",
+        "value": 1
+    },
+    {
+        "phrase": "VXSC*   PDVL*",
+        "value": 1
+    },
+    {
+        "phrase": "AD   BUF +1",
+        "value": 5
+    },
+    {
+        "phrase": "STRTP66A   TC   INTPRET",
+        "value": 1
+    },
+    {
+        "phrase": "VDGVERT",
+        "value": 1
+    },
+    {
+        "phrase": "FETCH DX, LEAVING -DX IN MPAC",
+        "value": 1
+    },
+    {
+        "phrase": "Page 827",
+        "value": 1
+    },
+    {
+        "phrase": "TTF/8CL   TC   INTPRETX",
+        "value": 1
+    },
+    {
+        "phrase": "DXCH   LAND",
+        "value": 2
+    },
+    {
+        "phrase": "2009-06-05 RSB   Fixed a goofy thing that was apparently",
+        "value": 1
+    },
+    {
+        "phrase": "Pages:   798-828",
+        "value": 1
+    },
+    {
+        "phrase": "P66VERT   TC   POSTJUMP",
+        "value": 1
+    },
+    {
+        "phrase": "1.  USER'S RESPONSIBILITY TO ASSUR THAT I X A(I) < 1 IN MAGNITUDE FOR ALL I.",
+        "value": 1
+    },
+    {
+        "phrase": "STORE ENTERING DATA, INITIALIZE ERASABLES",
+        "value": 1
+    },
+    {
+        "phrase": "FETCH CURRENT ROOT",
+        "value": 1
+    },
+    {
+        "phrase": "-EL   CS   ELEACH",
+        "value": 1
+    },
+    {
+        "phrase": "PROJMAX   DEC   .42262 B-3",
+        "value": 1
+    },
+    {
+        "phrase": "NO:  ARE WE IN P67 NOW?",
+        "value": 1
+    },
+    {
+        "phrase": "STORE   0",
+        "value": 1
+    },
+    {
+        "phrase": "CS   BUF",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   ROOTSTOR",
+        "value": 3
+    },
+    {
+        "phrase": "RDG,1",
+        "value": 1
+    },
+    {
+        "phrase": "DSU   DSU",
+        "value": 1
+    },
+    {
+        "phrase": "CCS   NIGNLOOP",
+        "value": 1
+    },
+    {
+        "phrase": "EBANK=   PIF",
+        "value": 1
+    },
+    {
+        "phrase": "SET OLDPIPAX,Y,Z = PIPAX,Y,Z",
+        "value": 1
+    },
+    {
+        "phrase": "LOC-2N   DP   A(0)",
+        "value": 1
+    },
+    {
+        "phrase": "BMN   DLOAD",
+        "value": 2
+    },
+    {
+        "phrase": "UNIT/R/",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   GOTOP00H",
+        "value": 1
+    },
+    {
+        "phrase": "DAS   VDGVERT",
+        "value": 1
+    },
+    {
+        "phrase": "STORE   20D",
+        "value": 1
+    },
+    {
+        "phrase": "GUIDANCE FOR P65",
+        "value": 1
+    },
+    {
+        "phrase": "DCA   TCGFBRAK",
+        "value": 1
+    },
+    {
+        "phrase": "TC   FASTCHNG",
+        "value": 7
+    },
+    {
+        "phrase": "CA   BUF",
+        "value": 1
+    },
+    {
+        "phrase": "AD   L",
+        "value": 2
+    },
+    {
+        "phrase": "DON'T CALL THROTTLE OR FINDCDUW",
+        "value": 1
+    },
+    {
+        "phrase": "TC   PHASCHNG",
+        "value": 1
+    },
+    {
+        "phrase": "TS   BUF",
+        "value": 2
+    },
+    {
+        "phrase": "READ   31",
+        "value": 1
+    },
+    {
+        "phrase": "P65VERT   TC   INTPRET",
+        "value": 1
+    },
+    {
+        "phrase": "MP   180DEGS",
+        "value": 1
+    },
+    {
+        "phrase": "DAS   ROOTPS",
+        "value": 1
+    },
+    {
+        "phrase": "TS   DERPTR",
+        "value": 1
+    },
+    {
+        "phrase": "DDV   VXSC",
+        "value": 1
+    },
+    {
+        "phrase": "CA   TCGFAPPR",
+        "value": 1
+    },
+    {
+        "phrase": "AD   TEMZ",
+        "value": 1
+    },
+    {
+        "phrase": "MASK   REDFLBIT",
+        "value": 2
+    },
+    {
+        "phrase": "PIPTIME",
+        "value": 2
+    },
+    {
+        "phrase": "EXOVFLOW   TC   ALARM",
+        "value": 1
+    },
+    {
+        "phrase": "TC   A",
+        "value": 1
+    },
+    {
+        "phrase": "VDG2TTF   =   VBRFG*",
+        "value": 1
+    },
+    {
+        "phrase": "DCA   HDOTDISP",
+        "value": 1
+    },
+    {
+        "phrase": "ADS   AZINCR1",
+        "value": 2
+    },
+    {
+        "phrase": "DERCOF TO DER TABLE",
+        "value": 1
+    },
+    {
+        "phrase": "VSR1   VAD",
+        "value": 1
+    },
+    {
+        "phrase": "POST GUIDANCE EQUATION COMPUTATIONS:",
+        "value": 1
+    },
+    {
+        "phrase": "V",
+        "value": 3
+    },
+    {
+        "phrase": "Page 824",
+        "value": 1
+    },
+    {
+        "phrase": "MASK   RODFLBIT",
+        "value": 1
+    },
+    {
+        "phrase": "MAGNITUDE OF AFC FOR THROTTLE",
+        "value": 1
+    },
+    {
+        "phrase": "Page 805",
+        "value": 1
+    },
+    {
+        "phrase": "P63DISPS   CAF   V06N63",
+        "value": 1
+    },
+    {
+        "phrase": "OCT   00003",
+        "value": 2
+    },
+    {
+        "phrase": "SNAPSHOT TIME OF PIPA READING.",
+        "value": 1
+    },
+    {
+        "phrase": "*********************************************************************************",
+        "value": 6
+    },
+    {
+        "phrase": "TS   MPAC +5",
+        "value": 2
+    },
+    {
+        "phrase": "DDV   SR2",
+        "value": 1
+    },
+    {
+        "phrase": "SET X1 ON THE WAY TO THE INTERPRETER",
+        "value": 1
+    },
+    {
+        "phrase": "****************************************************************************",
+        "value": 2
+    },
+    {
+        "phrase": "AFCCALC1",
+        "value": 1
+    },
+    {
+        "phrase": "R",
+        "value": 9
+    },
+    {
+        "phrase": "CAF   TABLTTFL",
+        "value": 1
+    },
+    {
+        "phrase": "CA   ZERO",
+        "value": 3
+    },
+    {
+        "phrase": "___   *   _   ____",
+        "value": 1
+    },
+    {
+        "phrase": "Page 798",
+        "value": 1
+    },
+    {
+        "phrase": "STATE IN GUIDANCE COORDINATES:",
+        "value": 1
+    },
+    {
+        "phrase": "VGU    +4",
+        "value": 1
+    },
+    {
+        "phrase": "(4)",
+        "value": 4
+    },
+    {
+        "phrase": "STORE SP ITERATION COUNT IN MPAC+2",
+        "value": 1
+    },
+    {
+        "phrase": "CS   OLDPIPAZ",
+        "value": 1
+    },
+    {
+        "phrase": "Page 813",
+        "value": 1
+    },
+    {
+        "phrase": "XCH   OLDPIPAZ",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   UNWCLOOP",
+        "value": 1
+    },
+    {
+        "phrase": "VHORIZ FOR DISPLAY DURING P65.",
+        "value": 1
+    },
+    {
+        "phrase": "MPAC(X) = PIPAX + PIPATMPX",
+        "value": 1
+    },
+    {
+        "phrase": "VSU   PUSH",
+        "value": 1
+    },
+    {
+        "phrase": "AD   LEADTIME",
+        "value": 1
+    },
+    {
+        "phrase": "Page 811",
+        "value": 1
+    },
+    {
+        "phrase": "ADRES   REDESMON",
+        "value": 1
+    },
+    {
+        "phrase": "CADR   SPARCSIN -1",
+        "value": 1
+    },
+    {
+        "phrase": "RSB 2009: Not originally a comment.",
+        "value": 1
+    },
+    {
+        "phrase": "TTFINCR   TC   INTPRET",
+        "value": 1
+    },
+    {
+        "phrase": "DLOAD*",
+        "value": 1
+    },
+    {
+        "phrase": "24D",
+        "value": 2
+    },
+    {
+        "phrase": "N-2",
+        "value": 1
+    },
+    {
+        "phrase": "2         2",
+        "value": 1
+    },
+    {
+        "phrase": "DV   TTF/8",
+        "value": 1
+    },
+    {
+        "phrase": "It is part of the source code for the Lunar Module's (LM)",
+        "value": 1
+    },
+    {
+        "phrase": "WCHPHASE =  0 ---> BRAKQUAD",
+        "value": 1
+    },
+    {
+        "phrase": "VHORCOMP",
+        "value": 1
+    },
+    {
+        "phrase": "ROUTINES FOR EXITING FROM LANDING GUIDANCE",
+        "value": 1
+    },
+    {
+        "phrase": "N      N-1              1     0",
+        "value": 1
+    },
+    {
+        "phrase": "TS   ELINCR   +1",
+        "value": 1
+    },
+    {
+        "phrase": "TDISPSET   CA   TTF/8",
+        "value": 1
+    },
+    {
+        "phrase": "DECREMENT PWR POINTER",
+        "value": 1
+    },
+    {
+        "phrase": "YIELDS ABS(DX) IN MPAC",
+        "value": 1
+    },
+    {
+        "phrase": "CS   TREDES",
+        "value": 1
+    },
+    {
+        "phrase": "TC   Q",
+        "value": 1
+    },
+    {
+        "phrase": "LOC+2   SP   PRECROOT    PREC RQD OF ROOT (AS FRACT OF 1ST GUESS)",
+        "value": 1
+    },
+    {
+        "phrase": "INDEX   WCHPHOLD",
+        "value": 2
+    },
+    {
+        "phrase": "EXGSUB   TC   INTPRET",
+        "value": 1
+    },
+    {
+        "phrase": "****************************************************************",
+        "value": 2
+    },
+    {
+        "phrase": "TCF   P67VERT",
+        "value": 1
+    },
+    {
+        "phrase": "CADR   P66VERTA",
+        "value": 1
+    },
+    {
+        "phrase": "TCF   TTF/8CL",
+        "value": 2
+    },
+    {
+        "phrase": "TS   AZINCR1",
+        "value": 2
+    },
+    {
+        "phrase": "LANDING SITE PERTURBATION EQUATIONS",
+        "value": 1
+    },
+    {
+        "phrase": "PREMON1   TS   ZERLINA",
+        "value": 1
+    },
+    {
+        "phrase": "MASK   BIT5",
+        "value": 1
+    },
+    {
+        "phrase": "BRSPOT1   INDEX   WCHPHASE",
+        "value": 1
+    },
+    {
+        "phrase": "P66VERTA   TC   PHASCHNG",
+        "value": 1
+    },
+    {
+        "phrase": "CADR   STOPRATE",
+        "value": 2
+    },
+    {
+        "phrase": "CCS   MPAC",
+        "value": 1
+    },
+    {
+        "phrase": "DOUBLE",
+        "value": 1
+    },
+    {
+        "phrase": "TC   INTPRETX",
+        "value": 2
+    },
+    {
+        "phrase": "PUSH DOWN UNIT (LAND - R)",
+        "value": 1
+    },
+    {
+        "phrase": "SQUARE",
+        "value": 1
+    },
+    {
+        "phrase": "MASK   BIT4",
+        "value": 1
+    },
+    {
+        "phrase": "AD   RUPTREG3",
+        "value": 1
+    },
+    {
+        "phrase": "3 (1/4(RDG - RG)   ___   __)",
+        "value": 1
+    },
+    {
+        "phrase": "DDV   DDV",
+        "value": 1
+    },
+    {
+        "phrase": "TC   POWRSERS",
+        "value": 2
+    },
+    {
+        "phrase": "BZF   RED-OVER",
+        "value": 1
+    },
+    {
+        "phrase": "TS   WCHPHOLD",
+        "value": 2
+    },
+    {
+        "phrase": "STODL   CG",
+        "value": 1
+    }
+]
