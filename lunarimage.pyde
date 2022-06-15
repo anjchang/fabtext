@@ -1,5 +1,7 @@
 # This file takes the words from the Apolllo 11 sourcecode
-# and remaps each word into a shade of gray
+# and remaps each word into a 10x10 pixel of a
+#  shade of gray based on the length of the word
+#  Todo is to create a word to color lookup table
 
 w, h = 64,64
 wordarray= [["" for x in range(w)] for y in range(h)] 
