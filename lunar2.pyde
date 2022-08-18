@@ -27,13 +27,13 @@ def draw():
     found=False
     count=0;x=0;y=0;xind=0;yind=0
     for word in words: #look at all words in array
-        wordcategory = map(len(word),0,6,0,255) #number of letter to grayscale
+        wordcategory = map(min(len(word),6),1,6,0,255) #number of letter to grayscale
         for term in freqwords:
             if (word.lower() == term.lower()): #word is in freqword
-                found = True
+                found = True  #substitute a color we like
                 fill(palette[freqwords.index(term)])
             else:
-                fill(wordcategory)
+                fill(wordcategory) #just use the gray based on length
             if found:
                 break;
         
@@ -52,7 +52,7 @@ def draw():
         #     print(xind,yind,term,word)
     
         found = False
-    saveFrame("lunar.png")
+    saveFrame("lunar3.png")
     #exit()
 def mousePressed():
     global wordarray
@@ -85,7 +85,8 @@ def mouseMoved():
     global wordarray
     x=int(round(mouseX/100)*10)
     y=int(round(mouseY/100)*10)
-    displayWord(x,y)
+    #displayWord(x,y)
+    print( wordarray[x][y])
     #print(x,y)
     
         
